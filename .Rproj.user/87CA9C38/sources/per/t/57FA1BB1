@@ -1,0 +1,24 @@
+{
+    "id": "57FA1BB1",
+    "path": "~/data/github/mauriciovancine/static/cv/convert_pdf.R",
+    "project_path": "convert_pdf.R",
+    "type": "r_source",
+    "hash": "2356747224",
+    "contents": "",
+    "dirty": false,
+    "created": 1601260692045.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "17,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1601261245,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601261245538,
+    "read_only": false,
+    "read_only_alternatives": []
+}
