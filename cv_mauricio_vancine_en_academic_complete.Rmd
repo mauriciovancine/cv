@@ -21,11 +21,11 @@ Contact {#contact}
 
 Themes {#contact}
 --------------------------------------------------------------------------------
-- `r icon::fontawesome("globe-americas")` `Spatial Ecology`  
+- `r icon::fontawesome("globe")` `Spatial Ecology`  
 - `r icon::fontawesome("globe-americas")` `Landscape Ecology`  
-- `r icon::fontawesome("chart-line")` `Ecology Modelling`  
-- `r icon::fontawesome("chart-line")` `Species Distribution Modelling (SDM)`  
-- `r icon::fontawesome("globe")` `Geoprocessing`  
+- `r icon::fontawesome("chart-bar")` `Ecology Modeling`  
+- `r icon::fontawesome("layer-group")` `Species Distribution Modeling (SDM)`  
+- `r icon::fontawesome("map-marked-alt")` `Geoprocessing`  
 - `r icon::fontawesome("chalkboard-teacher")` `Teaching Ecology, Statistics and R`
 
 Programming {#contact}
@@ -39,19 +39,17 @@ Programming {#contact}
 
 Software {#contact}
 --------------------------------------------------------------------------------
-- `r icon::fontawesome("globe")` [`QGIS`](https://qgis.org/en/site/)  
-- `r icon::fontawesome("globe")` [`GRASS GIS`](https://grass.osgeo.org/)  
+- `r icon::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)  
+- `r icon::fontawesome("pagelines")` [`GRASS GIS`](https://grass.osgeo.org/)  
 - `r icon::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
 Disclaimer
 ------------------------------------
 CV by [**pagedown**](https://github.com/rstudio/pagedown) R package.  
+Code available on `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
+Last updated on `r Sys.Date()`.
 
-Code available on <i class="fab fa-github"></i> [GitHub](https://github.com/mauriciovancine/cv). 
-
-Last updated on `r Sys.Date()`.  
-
-[Download a PDF of this CV](https://github.com/mauriciovancine/cv/raw/master/mauricio_vancine_cv.pdf)
+[Download a PDF of this CV](https://mauriciovancine.github.io/cv/cv_mauricio_vancine_en_academic_complete.pdf)
 
 Main
 ================================================================================
@@ -59,14 +57,14 @@ Main
 Maurício Vancine {#title}
 --------------------------------------------------------------------------------
 
-Ecologist and Doctoral Student in Ecology
+Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
 
 ### São Paulo State University (UNESP)
 
-[Doctoral Student in Ecology](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/zoologia/)
+[Doctoral Student in Ecology, Evolution and Biodiversity](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/)
 
 Rio Claro, SP, Brazil
 
@@ -107,7 +105,7 @@ Complementary Education {data-icon=book}
 
 University of Helsinki
 
-Helsinki, Finlândia
+Helsinki, Finland
 
 2020
 
@@ -190,17 +188,13 @@ Rio Claro, SP, Brazil
 Scholarship & Awards {data-icon=award}
 --------------------------------------------------------------------------------
 
-::: aside
-My formation...
-:::
-
 ### Doctoral Graduate Scholarship
 
-Coordination of Superior Level Staff Improvement (Capes) (BRL 105,600.00)
+Coordination of Superior Level Staff Improvement (Capes) (BRL 118,680.00)
 <br>
 São Paulo State University (UNESP)
 <br>
-Grant [88887.480959/2020-00]()
+Grant [88887.513979/2020-00]()
 
 Rio Claro, SP, Brazil
 
@@ -245,10 +239,6 @@ Rio Claro, SP, Brazil
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-::: aside
-My formation...
-:::
-
 ### Research Assistant
 
 São Paulo State University (UNESP)
@@ -265,12 +255,13 @@ Statistical and spatial analyzes of mammal and ants biodiversity in the Atlantic
 - 2000 h 
 :::
 
+::: aside
+From 2015 to 2016, I was a Research Assistant of Prof. Milton Cezar Ribeiro where I developed statistical and spatial analysis of mammal and ants biodiversity in the Atlantic Forest Biome
+:::
+
+
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
-
-::: aside
-My formation...
-:::
 
 ### Environmental consultant
 
@@ -283,6 +274,10 @@ Piracicaba, SP, Brazil
 ::: concise
 - Ecological corridors
 - Landscape metrics 
+:::
+
+::: aside
+Since 2016, I have worked as an autonomous environmental consultant in the field of geoprocessing, GIS, ecological data analysis, landscape ecology and species distribution modeling
 :::
 
 ### Environmental consultant
@@ -321,6 +316,10 @@ Curitiba, PR, Brazil
 - Species distribution modeling 
 :::
 
+::: aside
+Between 2018 and 2019 I composed a group of analysts to assess the impacts of the dam rupture in Marina/MG on the Doce River Basin, where I compiled land cover information and developed terrestrial and aquatic species distribution models
+:::
+
 ### Environmental consultant
 
 Associação de Levantamento Florestal do Amazonas
@@ -355,23 +354,25 @@ Rio Claro, SP, Brazil
 2015 - 2016
 
 ::: concise
-- Herpetology field assistent
+- Herpetology field assistant
 :::
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-::: aside
-My formation...
-:::
-
 ### <u>Courses</u>
 
-N/A
+Total hours:  
+Graduate: 240 h  
+Undergraduate: 102 h
 
 N/A
 
 N/A
+
+::: aside
+Since 2015, I have been developing teaching activity, mainly in the teaching assistant area. More recently, since 2016, undergraduate and graduate disciplinary ministers, mainly in disciplines related to Statistical Models in Ecology and Geoprocessing
+:::
 
 ### Introduction to geospatial analysis with R
 
@@ -488,14 +489,14 @@ Rio Claro, SP, Brazil
 
 ### <u>Short courses</u>
 
-N/A
+Total hours: 78 h
 
 N/A
 
 N/A
 
 ::: aside
-My formation...
+Since 2014, I teach practical training courses, mainly related to the R language and Species Distribution Models
 :::
 
 ### Introduction to R Language
@@ -598,8 +599,7 @@ Rio Claro, SP, Brazil
 
 ### Organization of data in electronic sheets - Calc
 
-Short course instructor
-<br>
+Short course instructor  
 [XXV Ecology Studies Week](http://www.rc.unesp.br/see/), São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
@@ -613,10 +613,6 @@ Rio Claro, SP, Brazil
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-::: aside
-My formation...
-:::
-
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system
 
 *Diversity and Distributions*
@@ -625,9 +621,15 @@ N/A
 
 2020
 
-DOI: [10.1111/ddi.13201](https://doi.org/10.1111/ddi.13201)
-<br>
+DOI: [10.1111/ddi.13201](https://doi.org/10.1111/ddi.13201)  
 Gusmão RAF, Hernandes FRA, <u>**Vancine MH**</u>, Naka LN, Doña J, Gonçalves-Souza T
+
+::: aside
+**Citations**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
 
 ### 12. Environmental niche and functional role similarity between invasive and native palms in the Atlantic Forest
 
@@ -637,8 +639,7 @@ N/A
 
 2020
 
-DOI: [10.1007/s10530-020-02400-8](https://doi.org/10.1007/s10530-020-02400-8)
-<br>
+DOI: [10.1007/s10530-020-02400-8](https://doi.org/10.1007/s10530-020-02400-8)  
 Bello C, Cintra ALP, Barreto E, <u>**Vancine MH**</u>, Sobral-Souza T, Graham CH, Galetti M
 
 ### 11. Effects of landscape modification on species richness patterns of fruit-feeding butterflies in Brazilian Atlantic Forest
@@ -649,8 +650,7 @@ N/A
 
 2020
 
-DOI: [10.1111/ddi.13007](https://doi.org/10.1111/ddi.13007)
-<br>
+DOI: [10.1111/ddi.13007](https://doi.org/10.1111/ddi.13007)  
 Santos JP, Sobral-Souza T, Brown Jr KS, <u>**Vancine MH**</u>, Ribeiro MC, Freitas AVL
 
 ### 10. Fragmented tropical forests lose mutualistic plant-animal interactions
@@ -661,8 +661,7 @@ N/A
 
 2020
 
-DOI: [10.1111/ddi.13010](https://doi.org/10.1111/ddi.13010)
-<br>
+DOI: [10.1111/ddi.13010](https://doi.org/10.1111/ddi.13010)  
 Marjakangas E, Abrego N, Grøtan V, Lima RAF, Bello C, Bovendorp RS, Culot L, Hasui E, Muylaert RL, Lima F, Niebuhr B, Oliveira AA, Pereira L, Prado I, Stevens RD, <u>**Vancine MH**</u>, Ribeiro MC, Galetti M, Ovaskainen O
 
 ### 9. Predicting the potential hybridization zones between native and invasive marmosets within Neotropical biodiversity hotspots
@@ -673,8 +672,7 @@ N/A
 
 2019
 
-DOI: [10.1016/j.gecco.2019.e00706](https://doi.org/10.1016/j.gecco.2019.e00706)
-<br>
+DOI: [10.1016/j.gecco.2019.e00706](https://doi.org/10.1016/j.gecco.2019.e00706)  
 Moraes AM, <u>**Vancine MH**</u>, Moraes AM, Cordeiro CLO, Pinto MP, Lima AA, Culot L, Silva TSF, Collevatti RG, Ribeiro MC, Sobral-Souza T
 
 ### 8. Land-use changes and the expansion of biofuel crops threaten the giant anteater in southeastern Brazil
@@ -685,8 +683,7 @@ N/A
 
 2019
 
-DOI: [10.1093/jmammal/gyz042](https://doi.org/10.1093/jmammal/gyz042)
-<br>
+DOI: [10.1093/jmammal/gyz042](https://doi.org/10.1093/jmammal/gyz042)  
 Bertassoni A, Costa RT, Gouvea JA, Bianchi BC, Ribeiro JW, <u>**Vancine MH**</u>, Ribeiro MC
 
 ### 7. Spatial prediction of risk areas for vector transmission of Trypanosoma cruzi in the State of Paraná, southern Brazil
@@ -697,8 +694,7 @@ N/A
 
 2018
 
-DOI: [10.1371/journal.pntd.0006907](https://doi.org/10.1371/journal.pntd.0006907)
-<br>
+DOI: [10.1371/journal.pntd.0006907](https://doi.org/10.1371/journal.pntd.0006907)  
 Ferro e Silva AM, Sobral-Souza T, <u>**Vancine MH**</u>, Muylaert RL, Abreu AP, Pelloso SM, Carvalho MDB, Andrade L, Ribeiro MC, Toledo MJO 
 
 ### 6. A note on the territorial limits of the Atlantic Forest
@@ -709,8 +705,7 @@ N/A
 
 2018
 
-DOI: [10.4257/oeco.2018.2203.09](https://doi.org/10.4257/oeco.2018.2203.09)
-<br>
+DOI: [10.4257/oeco.2018.2203.09](https://doi.org/10.4257/oeco.2018.2203.09)  
 Muylaert RL, <u>**Vancine MH**</u>, Bernardo R, Oshima JEF, Sobral-Souza T, Tonett VR, Niebuhr BBS, Ribeiro MC
 
 ### 5. ATLANTIC AMPHIBIANS: a data set of amphibian communities from the Atlantic Forests of South America
@@ -721,8 +716,7 @@ N/A
 
 2018
 
-DOI: [10.1002/ecy.2392](https://doi.org/10.1002/ecy.2392)
-<br>
+DOI: [10.1002/ecy.2392](https://doi.org/10.1002/ecy.2392)  
 <u>**Vancine MH**</u>, Duarte KS, Souza YS, Giovanelli JGR, Sobrinho PMM, López A, Bovo RP, Maffei F, Lion MB, Ribeiro-Júnior JW, Brassaloti R, Ortiz C, Sawakuchi HO, Forti LR, Cacciali P, Bertoluci J, Haddad CFB, Ribeiro MC
 
 ### 4. Efficiency of protected areas in Amazon and Atlantic Forest conservation: A spatio-temporal view
@@ -733,8 +727,7 @@ N/A
 
 2018
 
-DOI: [10.1016/j.actao.2018.01.001](https://doi.org/10.1016/j.actao.2018.01.001)
-<br>
+DOI: [10.1016/j.actao.2018.01.001](https://doi.org/10.1016/j.actao.2018.01.001)  
 Sobral-Souza T, <u>**Vancine MH**</u>, Ribeiro MC, Lima-Ribeiro MS
 
 ### 3. Forest cover influences occurrence of mammalian carnivores within Brazilian Atlantic Forest
@@ -745,8 +738,7 @@ N/A
 
 2017
 
-DOI: [10.1093/jmammal/gyx103](https://doi.org/10.1093/jmammal/gyx103)
-<br>
+DOI: [10.1093/jmammal/gyx103](https://doi.org/10.1093/jmammal/gyx103)  
 Regolin AL, Cherem JJ, Graipel ME, Bogoni JA, Ribeiro JW, <u>**Vancine MH**</u>, Tortato MA, Oliveira-Santos LG, Fantacini FM, Luiz MR, Castilho PV, Ribeiro MC, Cáceres, NC
 
 ### 2. Impacts of mining activities on the potential geographic distribution of eastern Brazil mountaintop endemic species. 
@@ -757,8 +749,7 @@ N/A
 
 2017
 
-DOI: [10.1016/j.pecon.2017.07.005](https://doi.org/10.1016/j.pecon.2017.07.005)
-<br>
+DOI: [10.1016/j.pecon.2017.07.005](https://doi.org/10.1016/j.pecon.2017.07.005)  
 De Castro Pena J, Goulart F, Fernandes GW, Hoffmann D, Leite FSF, Santos NB, Soares-Filho B, Sobral-Souza T, <u>**Vancine MH**</u>, Rodrigues M
 
 ### 1. High mammal species turnover in forest patches immersed in biofuel plantations
@@ -769,6 +760,5 @@ N/A
 
 2017
 
-DOI: [10.1016/j.biocon.2017.02.033](https://doi.org/10.1016/j.biocon.2017.02.033)
-<br>
+DOI: [10.1016/j.biocon.2017.02.033](https://doi.org/10.1016/j.biocon.2017.02.033)  
 Beca G, <u>**Vancine MH**</u>, Carvalho CS, Pedrosa F, Alves RSC, Buscariol D, Peres CA, Ribeiro MC, Galetti M
