@@ -15,7 +15,7 @@ Aside
 Contato {#contact}
 --------------------------------------------------------------------------------
 - `r icon::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
-- `r icon::fontawesome("envelope", style = "solid")` mauricio.vancine@gmail.com
+- `r icon::fontawesome("envelope", style = "solid")` [mauricio.vancine@gmail.com]()
 - `r icon::fontawesome("twitter")` [mauriciovancine](https://twitter.com/mauriciovancine)
 - `r icon::fontawesome("github")` [github/mauriciovancine](https://github.com/mauriciovancine)
 
@@ -243,7 +243,7 @@ Análises estatísticas e espaciais da biodiversidade de mamíferos e formigas n
 :::
 
 ::: aside
-De 2015 a 2016, fui assistente de pesquisa do Prof. Milton Cezar Ribeiro, onde desenvolvi análises estatísticas e espaciais da biodiversidade de mamíferos e formigas no Bioma Mata Atlântica
+Between 2015 and 2016, I was a research assistant for Prof. Milton Cezar Ribeiro, where I developed statistical and spatial analyzes of the diversity of mammals and ants in the Atlantic Forest Biome
 :::
 
 Experiência Profissional {data-icon=suitcase}
@@ -259,7 +259,9 @@ Piracicaba, SP, Brasil
 
 ::: concise
 - Corredores ecológicos
-- Métricas da paisagem 
+- Métricas da paisagem
+- LSCorridors
+- LSMetrics
 :::
 
 ::: aside
@@ -303,9 +305,8 @@ Curitiba, PR, Brasil
 :::
 
 ::: aside
-Entre 2018 e 2019 compus um grupo de analistas para avaliar os impactos do rompimento da barragem em Marina/MG sobre a Bacia do Rio Doce, onde compilei informações de cobertura da terra e desenvolvi modelos de distribuição de espécies terrestres e aquáticos
+Entre 2018 e 2019, compus um grupo de analistas para avaliar os impactos do rompimento da barragem de Fundão em Marina/MG sobre a Bacia do Rio Doce, onde compilei informações de cobertura da terra e construí modelos de distribuição de espécies terrestres e aquáticos para diversos cenários
 :::
-
 
 ### Consultor ambiental
 
@@ -358,7 +359,7 @@ N/A
 N/A
 
 ::: aside
-Desde 2015, desenvolvendo atividades docentes, inicialmente como monitor. Mais recentemente, desde 2016, ministro disciplinas de graduação e pós-graduação, principalmente disciplinas relacionadas à Ecologia Espacial, Modelos Estatísticos em Ecologia e Geoprocessamento
+Desde minha formação desenvolvo atividades docentes, inicialmente como monitor. À partir do mestrado ajudo e ministro disciplinas de graduação e pós-graduação, principalmente aquelas relacionadas à Ecologia Espacial, Modelos de Distribuição de Espécies, Modelos Estatísticos em Ecologia e Geoprocessamento
 :::
 
 ### [Introdução à análise geoespacial com R](https://mauriciovancine.github.io/disciplina-analise-geoespacial-r/)
@@ -473,7 +474,11 @@ N/A
 
 N/A
 
-### [Introdução à linguagem R](https://github.com/mauriciovancine/r-minicurso-see-2019)
+::: aside
+Desde 2014, ministro cursos de treinamento prático, principalmente relacionados à linguagem R e aos Modelos de Distribuição de Espécies
+:::
+
+### Introdução à linguagem R
 
 Instrutor de minicurso  
 [XXX Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/), Universidade Estadual Paulista (UNESP)
@@ -483,10 +488,11 @@ Rio Claro, SP, Brasil
 2019
 
 ::: concise
-- 08 h 
+- 08 h
+- [material](https://github.com/mauriciovancine/r-minicurso-see-2019)
 :::
 
-### [Introdução à linguagem R](https://github.com/mauriciovancine/r-minicurso-sebio-2019)
+### Introdução à linguagem R
 
 Instrutor de minicurso  
 [30ª Semana de Estudos da Biologia](https://www.facebook.com/SEBioRC/), Universidade Estadual Paulista (UNESP)
@@ -496,10 +502,11 @@ Rio Claro, SP, Brasil
 2019
 
 ::: concise
-- 08 h 
+- 08 h
+- [material](https://github.com/mauriciovancine/r-minicurso-sebio-2019)
 :::
 
-### [Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática](https://github.com/mauriciovancine/r-minicurso-sdm-9-cbh)
+### Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática
 
 Instrutor de minicurso  
 [9º Congresso Brasileiro de Herpetology](https://9cbh.galoa.com.br/)
@@ -509,7 +516,8 @@ Campinas, SP, Brasil
 2019
 
 ::: concise
-- 07 h 
+- 07 h
+- [material](https://github.com/mauriciovancine/r-minicurso-sdm-9-cbh)
 :::
 
 ### Trabalho de campo com anfíbios

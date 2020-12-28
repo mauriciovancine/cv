@@ -9,9 +9,6 @@ library(pagedown)
 library(xaringan)
 library(tidyverse)
 
-# directory
-setwd("/home/mude/data/github/mauriciovancine/static/cv")
-
 # convert to pdf
 purrr::map(dir(pattern = ".Rmd$"), chrome_print)
 

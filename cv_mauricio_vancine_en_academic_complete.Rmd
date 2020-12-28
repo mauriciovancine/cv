@@ -82,8 +82,7 @@ Rio Claro, SP, Brazil
 
 2016 - 2018
 
-**Thesis**: Diversity, distribution and effect of climate change on Atlantic Forest amphibian communities ([UNESP Libraries](https://repositorio.unesp.br/handle/11449/154993))
-<br>
+**Thesis**: Diversity, distribution and effect of climate change on Atlantic Forest amphibian communities ([UNESP Libraries](https://repositorio.unesp.br/handle/11449/154993))  
 **Advisor**: Prof. Célio Fernando Baptista Haddad
 
 ### São Paulo State University (UNESP)
@@ -94,8 +93,7 @@ Rio Claro, SP, Brazil
 
 2011 - 2015
 
-**Thesis**: Effect of fragmentation on the persistence of anuran amphibians (Amphibia: Anura) within the Atlantic Forest ([UNESP Libraries](https://repositorio.unesp.br/handle/11449/138991))
-<br>
+**Thesis**: Effect of fragmentation on the persistence of anuran amphibians (Amphibia: Anura) within the Atlantic Forest ([UNESP Libraries](https://repositorio.unesp.br/handle/11449/138991))  
 **Advisor**: Prof. Milton Cezar Ribeiro
 
 Complementary Education {data-icon=book}
@@ -105,7 +103,7 @@ Complementary Education {data-icon=book}
 
 University of Helsinki
 
-Helsinki, Finland
+Helsinki, Finland (Zoom)
 
 2020
 
@@ -277,7 +275,7 @@ Piracicaba, SP, Brazil
 :::
 
 ::: aside
-Since 2016, I have worked as an autonomous environmental consultant in the field of geoprocessing, GIS, ecological data analysis, landscape ecology and species distribution modeling
+Since 2016, I have worked as an autonomous environmental consultant in the field of geoprocessing, analysis of ecological data, landscape ecology and species distribution modeling
 :::
 
 ### Environmental consultant
@@ -317,7 +315,7 @@ Curitiba, PR, Brazil
 :::
 
 ::: aside
-Between 2018 and 2019 I composed a group of analysts to assess the impacts of the dam rupture in Marina/MG on the Doce River Basin, where I compiled land cover information and developed terrestrial and aquatic species distribution models
+Between 2018 and 2019, I composed a group of analysts to assess the impact of the Fundão dam rupture in Marina/MG (Brazil) on the Rio Doce Basin, where I compiled land cover information and built models for the distribution of terrestrial and aquatic species to several scenarios
 :::
 
 ### Environmental consultant
@@ -371,7 +369,7 @@ N/A
 N/A
 
 ::: aside
-Since 2015, I have been developing teaching activity, mainly in the teaching assistant area. More recently, since 2016, undergraduate and graduate disciplinary ministers, mainly in disciplines related to Statistical Models in Ecology and Geoprocessing
+Since my formation I develop teaching activities, initially as a monitor. From the master's degree, I help and minister undergraduate and graduate courses, especially those related to Space Ecology, Species Distribution Models, Statistical Models in Ecology and Geoprocessing.
 :::
 
 ### Introduction to geospatial analysis with R
@@ -510,7 +508,8 @@ Rio Claro, SP, Brazil
 2019
 
 ::: concise
-- 08 h 
+- 08 h
+- [material](https://github.com/mauriciovancine/r-minicurso-see-2019)
 :::
 
 ### Introduction to R Language
@@ -524,7 +523,8 @@ Rio Claro, SP, Brazil
 2019
 
 ::: concise
-- 08 h 
+- 08 h
+- [material](https://github.com/mauriciovancine/r-minicurso-sebio-2019)
 :::
 
 ### Introduction to Species Distribution Modeling using R Language: theory and practice
@@ -538,7 +538,8 @@ Campinas, SP, Brazil
 2019
 
 ::: concise
-- 07 h 
+- 07 h
+- [material](https://github.com/mauriciovancine/r-minicurso-sdm-9-cbh)
 :::
 
 ### Field work with amphibians
