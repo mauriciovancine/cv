@@ -247,7 +247,7 @@ Análises estatísticas e espaciais da biodiversidade de mamíferos e formigas n
 :::
 
 ::: aside
-Between 2015 and 2016, I was a research assistant for Prof. Milton Cezar Ribeiro, where I developed statistical and spatial analyzes of the diversity of mammals and ants in the Atlantic Forest Biome
+Entre 2015 e 2016, fui assistente de pesquisa do Prof. Milton Cezar Ribeiro, onde desenvolvi análises estatísticas e espaciais da diversidade de mamíferos e formigas no Bioma Mata Atlântica
 :::
 
 Experiência Profissional {data-icon=suitcase}
