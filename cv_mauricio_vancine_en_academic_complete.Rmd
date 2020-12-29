@@ -369,7 +369,8 @@ Since my formation I develop teaching activities, initially as a monitor. From t
 
 ### Introduction to geospatial analysis with R
 
-Invited teacher in Ecology, Biodiversity and Evolution Graduate Program  
+Invited teacher  
+Ecology, Biodiversity and Evolution Graduate Program  
 São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
@@ -383,7 +384,8 @@ Rio Claro, SP, Brazil
 
 ### Statistical Models in Ecology
 
-Teacher in Ecology Undergraduate  
+Teacher  
+Ecology Undergraduate  
 São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
@@ -396,8 +398,8 @@ Rio Claro, SP, Brazil
 
 ### Introduction to Geoprocessing for Ethnobiology and Biodiversity Conservation
 
-Invited external teacher in Ethnobiology and Nature Conservation Graduate Program
-<br>
+Invited external teacher  
+Ethnobiology and Nature Conservation Graduate Program  
 Rural Federal University of Pernambuco (UFRPE)
 
 Recife, PE, Brazil
@@ -411,8 +413,8 @@ Recife, PE, Brazil
 
 ### Statistical Models in Ecology
 
-Teaching assistant in Ecology Undergraduate
-<br>
+Teaching assistant  
+Ecology Undergraduate  
 São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
@@ -425,8 +427,8 @@ Rio Claro, SP, Brazil
 
 ### Ecological Niche Modeling: theory and practice
 
-Teaching assistant in Ecology and Biodiversity Graduate Program
-<br>
+Teaching assistant  
+Ecology and Biodiversity Graduate Program  
 São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
@@ -439,8 +441,8 @@ Rio Claro, SP, Brazil
 
 ### Ecological Niche Modeling: theory and practice
 
-Teaching assistant in Ecology Graduate Program
-<br>
+Teaching assistant  
+Ecology Graduate Program  
 The University of Campinas (UNICAMP)
 
 Campinas, SP, Brazil
@@ -453,8 +455,8 @@ Campinas, SP, Brazil
 
 ### Ecological Niche Modeling in R
 
-Teaching assistant in Ecology and Biodiversity Graduate Program
-<br>
+Teaching assistant  
+Ecology and Biodiversity Graduate Program  
 São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
@@ -467,8 +469,8 @@ Rio Claro, SP, Brazil
 
 ### Quantitative Ecology
 
-Teaching assistant in Ecology Undergraduate
-<br>
+Teaching assistant  
+Ecology Undergraduate  
 São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
@@ -495,7 +497,8 @@ Since 2014, I teach practical training courses, mainly related to the R language
 ### Introduction to R Language
 
 Short course instructor  
-[XXX Ecology Studies Week](http://www.rc.unesp.br/see/), São Paulo State University (UNESP)
+[XXX Ecology Studies Week](http://www.rc.unesp.br/see/)  
+São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
 
@@ -508,9 +511,9 @@ Rio Claro, SP, Brazil
 
 ### Introduction to R Language
 
-Short course instructor
-<br>
-[30ª Biology Studies Week](https://www.facebook.com/SEBioRC/), São Paulo State University (UNESP)
+Short course instructor  
+[30ª Biology Studies Week](https://www.facebook.com/SEBioRC/)  
+São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
 
@@ -523,9 +526,9 @@ Rio Claro, SP, Brazil
 
 ### Introduction to Species Distribution Modeling using R Language: theory and practice
 
-Short course instructor
-<br>
-[9º Brazilian Congress of Herpetology](https://9cbh.galoa.com.br/)
+Short course instructor  
+[9º Brazilian Congress of Herpetology](https://9cbh.galoa.com.br/)  
+The University of Campinas (UNICAMP)
 
 Campinas, SP, Brazil
 
@@ -538,9 +541,9 @@ Campinas, SP, Brazil
 
 ### Field work with amphibians
 
-Short course instructor
-<br>
-[29ª Biology Studies Week](https://www.facebook.com/SEBioRC/), São Paulo State University (UNESP)
+Short course instructor  
+[29ª Biology Studies Week](https://www.facebook.com/SEBioRC/)  
+São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
 
@@ -552,9 +555,9 @@ Rio Claro, SP, Brazil
 
 ### Field herpetology
 
-Short course instructor
-<br>
-[XXVII Ecology Studies Week](http://www.rc.unesp.br/see/), São Paulo State University (UNESP)
+Short course instructor  
+[XXVII Ecology Studies Week](http://www.rc.unesp.br/see/)  
+São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
 
@@ -566,9 +569,9 @@ Rio Claro, SP, Brazil
 
 ### Introduction to software R: data management, graphs and statistical analysis
 
-Short course instructor
-<br>
-[XXVII Ecology Studies Week](http://www.rc.unesp.br/see/), São Paulo State University (UNESP)
+Short course instructor  
+[XXVII Ecology Studies Week](http://www.rc.unesp.br/see/)  
+São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
 
@@ -580,9 +583,9 @@ Rio Claro, SP, Brazil
 
 ### Introduction to software R
 
-Short course instructor
-<br>
-[XXVI Ecology Studies Week](http://www.rc.unesp.br/see/), São Paulo State University (UNESP)
+Short course instructor  
+[XXVI Ecology Studies Week](http://www.rc.unesp.br/see/)  
+São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
 
@@ -595,7 +598,8 @@ Rio Claro, SP, Brazil
 ### Organization of data in electronic sheets - Calc
 
 Short course instructor  
-[XXV Ecology Studies Week](http://www.rc.unesp.br/see/), São Paulo State University (UNESP)
+[XXV Ecology Studies Week](http://www.rc.unesp.br/see/)  
+São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
 
@@ -625,6 +629,7 @@ Gusmão RAF, Hernandes FRA, <u>**Vancine MH**</u>, Naka LN, Doña J, Gonçalves-
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
 [Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
 :::
+
 
 ### 12. Environmental niche and functional role similarity between invasive and native palms in the Atlantic Forest
 

@@ -368,7 +368,8 @@ Desde minha formação desenvolvo atividades docentes, inicialmente como monitor
 
 ### Introdução à análise geoespacial com R
 
-Professor convidado no Programa de Pós-Graduação em Ecologia, Evolução e Biodiversidade  
+Professor convidado  
+Programa de Pós-Graduação em Ecologia, Evolução e Biodiversidade  
 Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
@@ -382,7 +383,8 @@ Rio Claro, SP, Brasil
 
 ### Modelos Estatísticos em Ecologia
 
-Professor substitudo na Graduação em Ecologia  
+Professor substitudo  
+Graduação em Ecologia  
 Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
@@ -395,7 +397,8 @@ Rio Claro, SP, Brasil
 
 ### Introdução ao Geoprocessamento para Etnobiologia e Conservação da Biodiversidade
 
-Professor externo convidado no Programa de Pós-Graduação em Etnobiologia e Conservação da Natureza  
+Professor externo convidado  
+Programa de Pós-Graduação em Etnobiologia e Conservação da Natureza  
 Universidade Federal Rural de Pernambuco (UFRPE)
 
 Recife, PE, Brasil
@@ -409,7 +412,8 @@ Recife, PE, Brasil
 
 ### Modelos Estatísticos em Ecologia
 
-Professor assistente na Graduação em Ecologia  
+Professor assistente  
+Graduação em Ecologia  
 Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
@@ -422,7 +426,8 @@ Rio Claro, SP, Brasil
 
 ### Modelagem de Nicho Ecológico: teoria e prática
 
-Professor assistente no Programa de Pós-Graduação em Ecologia e Biodiversidade  
+Professor assistente  
+Programa de Pós-Graduação em Ecologia e Biodiversidade  
 Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
@@ -435,7 +440,8 @@ Rio Claro, SP, Brasil
 
 ### Modelagem de Nicho Ecológico: teoria e prática
 
-Professor assistente no Programa de Pós-Graduação em Ecologia e Biodiversidade  
+Professor assistente  
+Programa de Pós-Graduação em Ecologia e Biodiversidade  
 Universidade Estadual de Campinas (UNICAMP)
 
 Campinas, SP, Brasil
@@ -448,7 +454,8 @@ Campinas, SP, Brasil
 
 ### Modelagem de Nicho Ecológico no R
 
-Professor assistente no Programa de Pós-Graduação em Ecologia e Biodiversidade  
+Professor assistente  
+Programa de Pós-Graduação em Ecologia e Biodiversidade  
 Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
@@ -487,7 +494,8 @@ Desde 2014, ministro cursos de treinamento prático, principalmente relacionados
 ### Introdução à linguagem R
 
 Instrutor de minicurso  
-[XXX Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/), Universidade Estadual Paulista (UNESP)
+[XXX Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
+Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
 
@@ -501,7 +509,8 @@ Rio Claro, SP, Brasil
 ### Introdução à linguagem R
 
 Instrutor de minicurso  
-[30ª Semana de Estudos da Biologia](https://www.facebook.com/SEBioRC/), Universidade Estadual Paulista (UNESP)
+[30ª Semana de Estudos da Biologia](https://www.facebook.com/SEBioRC/)  
+Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
 
@@ -516,6 +525,7 @@ Rio Claro, SP, Brasil
 
 Instrutor de minicurso  
 [9º Congresso Brasileiro de Herpetology](https://9cbh.galoa.com.br/)
+Universidade Estadual de Campinas (UNICAMP)
 
 Campinas, SP, Brasil
 
@@ -529,7 +539,8 @@ Campinas, SP, Brasil
 ### Trabalho de campo com anfíbios
 
 Instrutor de minicurso  
-[29ª Semana de Estudos da Biologia](https://www.facebook.com/SEBioRC/), Universidade Estadual Paulista (UNESP)
+[29ª Semana de Estudos da Biologia](https://www.facebook.com/SEBioRC/)  
+Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
 
@@ -542,7 +553,8 @@ Rio Claro, SP, Brasil
 ### Herpetologia de campo
 
 Instrutor de minicurso  
-[XXVII Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/), Universidade Estadual Paulista (UNESP)
+[XXVII Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
+Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
 
@@ -555,7 +567,8 @@ Rio Claro, SP, Brasil
 ### Introdução ao software R: gerenciamento de dados, gráficos e análise estatística
 
 Instrutor de minicurso  
-[XXVII Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/), Universidade Estadual Paulista (UNESP)
+[XXVII Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
+Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
 
@@ -568,7 +581,8 @@ Rio Claro, SP, Brasil
 ### Introdução ao software R
 
 Instrutor de minicurso  
-[XXVI Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/), Universidade Estadual Paulista (UNESP)
+[XXVI Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
+Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
 
@@ -581,7 +595,8 @@ Rio Claro, SP, Brasil
 ### Organização de dados em folhas eletrônicas - Calc
 
 Instrutor de minicurso  
-[XXV Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/), Universidade Estadual Paulista (UNESP)
+[XXV Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
+Universidade Estadual Paulista (UNESP)
 
 Rio Claro, SP, Brasil
 
@@ -593,13 +608,6 @@ Rio Claro, SP, Brasil
 
 Publicações {data-icon=file}
 --------------------------------------------------------------------------------
-
-::: aside
-**Citações**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
 
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system
 
@@ -613,6 +621,12 @@ DOI: [10.1111/ddi.13201](https://doi.org/10.1111/ddi.13201)
 <br>
 Gusmão RAF, Hernandes FRA, <u>**Vancine MH**</u>, Naka LN, Doña J, Gonçalves-Souza T
 
+::: aside
+**Citações**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
 
 ### 12. Environmental niche and functional role similarity between invasive and native palms in the Atlantic Forest
 
