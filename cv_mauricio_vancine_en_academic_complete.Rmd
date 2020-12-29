@@ -70,8 +70,7 @@ Rio Claro, SP, Brazil
 
 2020 - Present
 
-**Thesis**: Effect of landscape changes on communities amphibians in the Atlantic Forest
-<br>
+**Thesis**: Effect of landscape changes on communities amphibians in the Atlantic Forest  
 **Advisor**: Prof. Milton Cezar Ribeiro
 
 ### São Paulo State University (UNESP)
@@ -101,14 +100,15 @@ Complementary Education {data-icon=book}
 
 ### Hierarchical Modelling of Species Communities with the R-package Hmsc
 
-University of Helsinki
+University of Helsinki (Zoom)
 
-Helsinki, Finland (Zoom)
+Helsinki, Finland
 
 2020
 
 ::: concise
 - 25 h 
+- [course](https://www.helsinki.fi/en/researchgroups/statistical-ecology/hmsc)
 :::
 
 ### School on Community Ecology: from patterns to principles
@@ -121,6 +121,7 @@ São Paulo, SP, Brazil
 
 ::: concise
 - 60 h 
+- [course](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles)
 :::
 
 ### Introduction to Hierarchical Modeling
@@ -133,6 +134,7 @@ Porto Alegre, RS, Brazil
 
 ::: concise
 - 45 h 
+- [course](http://ferrazlab.org/graduate)
 :::
 
 ### Geoprocessing with GRASS GIS
@@ -156,7 +158,8 @@ São Paulo, SP, Brazil
 2016
 
 ::: concise
-- 53 h 
+- 53 h
+- [course](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/)
 :::
 
 ### Biology and conservation of amphibians and reptiles
@@ -188,50 +191,41 @@ Scholarship & Awards {data-icon=award}
 
 ### Doctoral Graduate Scholarship
 
-Coordination of Superior Level Staff Improvement (Capes) (BRL 118,680.00)
-<br>
-São Paulo State University (UNESP)
-<br>
+Coordination of Superior Level Staff Improvement (Capes) (BRL 118,680.00)  
+São Paulo State University (UNESP)  
 Grant [88887.513979/2020-00]()
 
 Rio Claro, SP, Brazil
 
 2020 - 2024
 
-**Title**: Effect of landscape changes on communities amphibians in the Atlantic Forest
-<br>
+**Title**: Effect of landscape changes on communities amphibians in the Atlantic Forest  
 **Aim**: Developing
 
 ### Master Graduate Scholarship
 
-São Paulo Research Foundation (FAPESP) (BRL 16,248.54)
-<br>
-São Paulo State University (UNESP)
-<br>
+São Paulo Research Foundation (FAPESP) (BRL 16,248.54)  
+São Paulo State University (UNESP)  
 Grant [#2017/09676-8](https://bv.fapesp.br/en/bolsas/172826/effect-of-landscape-modifications-and-climate-changes-on-the-persistence-of-amphibians-in-the-atlant/)
 
 Rio Claro, SP, Brazil
 
 2017 - 2018
 
-**Title**: Effect of Landscape Modifications and Climate Changes on the Persistence of Amphibians in the Atlantic Forest
-<br>
+**Title**: Effect of Landscape Modifications and Climate Changes on the Persistence of Amphibians in the Atlantic Forest  
 **Aim**: (1) to present an assessment of the surveys of the amphibian communities for the Atlantic Forest, their composition and distribution; (2) to investigate how habitat loss and fragmentation on the regional scale can affect the current persistence of amphibians from different reproductive guilds; and (3) to investigate how climate change may affect the future persistence of amphibians of the genus *Brachycephalus*, considered highly sensitive to these climatic changes
 
 ### Scientific Initiation Scholarship
 
-São Paulo Research Foundation (FAPESP) (BRL 10,539.87)
-<br>
-São Paulo State University (UNESP)
-<br>
+São Paulo Research Foundation (FAPESP) (BRL 10,539.87)  
+São Paulo State University (UNESP)  
 Grant [#2013/02883-7](https://bv.fapesp.br/en/bolsas/142421/effect-of-fragmentation-on-the-persistence-of-anuran-amphibians-amphibia-anura-within-the-atlanti/)
 
 Rio Claro, SP, Brazil
 
 2013 - 2015
 
-**Title**: Effect of fragmentation on the persistence of anuran amphibians (Amphibia: Anura) within the Atlantic Forest
-<br>
+**Title**: Effect of fragmentation on the persistence of anuran amphibians (Amphibia: Anura) within the Atlantic Forest  
 **Aim**: (1) model the potential distribution based on the environmental suitability of the species of interest; (2) identify landscapes with high environmental suitability and surveys with high sampling effort in order to characterize the regional anurofauna; and (3) evaluate the relative contribution of landscape indices (percentage of forest cover, connectivity, relief and urban proximity) to the persistence of species using model selection for multiple competing hypotheses based on Akaike information theory
 
 Research Experience {data-icon=laptop}
@@ -239,8 +233,7 @@ Research Experience {data-icon=laptop}
 
 ### Research Assistant
 
-São Paulo State University (UNESP)
-<br>
+São Paulo State University (UNESP)  
 [Spatial Ecology and Conservation Lab (LEEC)](https://ib.rc.unesp.br/#!/departamentos/ecologia/leec/home/)
 
 Rio Claro, SP, Brazil
@@ -271,7 +264,9 @@ Piracicaba, SP, Brazil
 
 ::: concise
 - Ecological corridors
-- Landscape metrics 
+- Landscape metrics
+- LSCorridors
+- LSMetrics
 :::
 
 ::: aside
@@ -374,8 +369,7 @@ Since my formation I develop teaching activities, initially as a monitor. From t
 
 ### Introduction to geospatial analysis with R
 
-Invited teacher in Ecology, Biodiversity and Evolution Graduate Program
-<br>
+Invited teacher in Ecology, Biodiversity and Evolution Graduate Program  
 São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
@@ -384,12 +378,12 @@ Rio Claro, SP, Brazil
 
 ::: concise
 - 60 h 
+- [material](https://mauriciovancine.github.io/disciplina-analise-geoespacial-r/)
 :::
 
 ### Statistical Models in Ecology
 
-Teacher in Ecology Undergraduate
-<br>
+Teacher in Ecology Undergraduate  
 São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil
@@ -411,7 +405,8 @@ Recife, PE, Brazil
 2019
 
 ::: concise
-- 45 h 
+- 45 h
+- [material](https://github.com/mauriciovancine/disciplina-geoprocessamento)
 :::
 
 ### Statistical Models in Ecology
@@ -499,8 +494,7 @@ Since 2014, I teach practical training courses, mainly related to the R language
 
 ### Introduction to R Language
 
-Short course instructor
-<br>
+Short course instructor  
 [XXX Ecology Studies Week](http://www.rc.unesp.br/see/), São Paulo State University (UNESP)
 
 Rio Claro, SP, Brazil

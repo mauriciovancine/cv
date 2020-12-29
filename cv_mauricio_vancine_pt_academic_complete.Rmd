@@ -15,7 +15,7 @@ Aside
 Contato {#contact}
 --------------------------------------------------------------------------------
 - `r icon::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
-- `r icon::fontawesome("envelope", style = "solid")` [mauricio.vancine@gmail.com]()
+- `r icon::fontawesome("envelope", style = "solid")` mauricio.vancine@gmail.com
 - `r icon::fontawesome("twitter")` [mauriciovancine](https://twitter.com/mauriciovancine)
 - `r icon::fontawesome("github")` [github/mauriciovancine](https://github.com/mauriciovancine)
 
@@ -45,7 +45,7 @@ Softwares {#contact}
 
 Disclaimer
 ------------------------------------
-CV pelo pacote [**pagedown**](https://github.com/rstudio/pagedown).  
+CV pelo pacote do R [**pagedown**](https://github.com/rstudio/pagedown).  
 Código em `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
 Atualizado em `r Sys.Date()`.
 
@@ -64,7 +64,7 @@ Formação {data-icon=graduation-cap}
 
 ### Universidade Estadual Paulista (UNESP)
 
-[Doutorando em Ecologia, Evolução e Biodiversidade](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/zoologia/)
+[Doutorando em Ecologia, Evolução e Biodiversidade](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/)
 
 Rio Claro, SP, Brasil
 
@@ -100,14 +100,15 @@ Formação Complementar {data-icon=book}
 
 ### Hierarchical Modelling of Species Communities with the R-package Hmsc
 
-Universidade de Helsinki
+Universidade de Helsinki (Zoom)
 
-Helsinki, Finlândia (Zoom)
+Helsinki, Finlândia
 
 2020
 
 ::: concise
-- 25 h 
+- 25 h
+- [course](https://www.helsinki.fi/en/researchgroups/statistical-ecology/hmsc)
 :::
 
 ### School on Community Ecology: from patterns to principles
@@ -119,7 +120,8 @@ São Paulo, SP, Brasil
 2020
 
 ::: concise
-- 60 h 
+- 60 h
+- [course](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles)
 :::
 
 ### Introdução à Modelagem Hierárquica
@@ -131,7 +133,8 @@ Porto Alegre, RS, Brasil
 2019
 
 ::: concise
-- 45 h 
+- 45 h
+- [course](http://ferrazlab.org/graduate)
 :::
 
 ### Geoprocessamento com GRASS GIS
@@ -155,7 +158,8 @@ São Paulo, SP, Brasil
 2016
 
 ::: concise
-- 53 h 
+- 53 h
+- [course](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/)
 :::
 
 ### Biologia e Conservação de Anfíbios e Répteis
@@ -362,7 +366,7 @@ N/A
 Desde minha formação desenvolvo atividades docentes, inicialmente como monitor. À partir do mestrado ajudo e ministro disciplinas de graduação e pós-graduação, principalmente aquelas relacionadas à Ecologia Espacial, Modelos de Distribuição de Espécies, Modelos Estatísticos em Ecologia e Geoprocessamento
 :::
 
-### [Introdução à análise geoespacial com R](https://mauriciovancine.github.io/disciplina-analise-geoespacial-r/)
+### Introdução à análise geoespacial com R
 
 Professor convidado no Programa de Pós-Graduação em Ecologia, Evolução e Biodiversidade  
 Universidade Estadual Paulista (UNESP)
@@ -372,7 +376,8 @@ Rio Claro, SP, Brasil
 2020
 
 ::: concise
-- 60 h 
+- 60 h
+- [material](https://mauriciovancine.github.io/disciplina-analise-geoespacial-r/)
 :::
 
 ### Modelos Estatísticos em Ecologia
@@ -388,7 +393,7 @@ Rio Claro, SP, Brasil
 - 30 h 
 :::
 
-### [Introdução ao Geoprocessamento para Etnobiologia e Conservação da Biodiversidade](https://github.com/mauriciovancine/disciplina-geoprocessamento)
+### Introdução ao Geoprocessamento para Etnobiologia e Conservação da Biodiversidade
 
 Professor externo convidado no Programa de Pós-Graduação em Etnobiologia e Conservação da Natureza  
 Universidade Federal Rural de Pernambuco (UFRPE)
@@ -398,7 +403,8 @@ Recife, PE, Brasil
 2019
 
 ::: concise
-- 45 h 
+- 45 h
+- [material](https://github.com/mauriciovancine/disciplina-geoprocessamento)
 :::
 
 ### Modelos Estatísticos em Ecologia
