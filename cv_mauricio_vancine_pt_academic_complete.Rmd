@@ -45,7 +45,7 @@ Softwares {#contact}
 
 Disclaimer
 ------------------------------------
-CV pelo pacote do R [**pagedown**](https://github.com/rstudio/pagedown).  
+CV pelo pacote [**pagedown**](https://github.com/rstudio/pagedown).  
 Código em `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
 Atualizado em `r Sys.Date()`.
 

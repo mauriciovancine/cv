@@ -20,7 +20,7 @@
   --sidebar-horizontal-padding: 0.1in;
 
   /* XXX: using px for very good precision control */
-  --decorator-outer-offset-top: 12px;
+  --decorator-outer-offset-top: 11px;
   --decorator-outer-offset-left: -6px;
   --decorator-border-width: 1px;
   --decorator-outer-dim: 10px;
@@ -194,7 +194,7 @@ h1, h2{
 .date{
   flex: 0 0 var(--date-block-width);
   padding-top: calc(var(--row-blocks-padding-top) + 0.25rem) !important;
-  padding-right: calc(var(--decorator-horizontal-margin) - 15rem); /* dates */
+  padding-right: calc(var(--decorator-horizontal-margin) - 20rem); /* dates */
   font-size: 0.7rem;
   text-align: right;
   line-height: 1;
