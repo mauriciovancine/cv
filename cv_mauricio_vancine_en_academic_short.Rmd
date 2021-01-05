@@ -1,0 +1,187 @@
+---
+title: "Maurício Vancine"
+author: Maurício Vancine
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: resume.css
+---
+
+Aside
+================================================================================
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+- `r icon::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
+- `r icon::fontawesome("envelope", style = "solid")` mauricio.vancine@gmail.com
+- `r icon::fontawesome("twitter")` [mauriciovancine](https://twitter.com/mauriciovancine)
+- `r icon::fontawesome("github")` [github/mauriciovancine](https://github.com/mauriciovancine)
+
+Themes {#contact}
+--------------------------------------------------------------------------------
+- `r icon::fontawesome("globe")` `Spatial Ecology`  
+- `r icon::fontawesome("globe-americas")` `Landscape Ecology`  
+- `r icon::fontawesome("chart-bar")` `Ecology Modeling`  
+- `r icon::fontawesome("layer-group")` `Species Distribution Modeling (SDM)`  
+- `r icon::fontawesome("map-marked-alt")` `Geoprocessing`  
+- `r icon::fontawesome("chalkboard-teacher")` `Teaching Ecology, Statistics and R`
+
+Programming {#contact}
+--------------------------------------------------------------------------------
+- `r icon::fontawesome("r-project")` [`R`](https://www.r-project.org/)  
+- `r icon::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)  
+- `r icon::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)  
+- `r icon::fontawesome("code-branch")` [`Git`](https://git-scm.com/)  
+- `r icon::fontawesome("python")` [`Python`](https://www.python.org/)  
+- `r icon::fontawesome("terminal")` [`Bash`](https://www.gnu.org/software/bash/)
+
+Software {#contact}
+--------------------------------------------------------------------------------
+- `r icon::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)  
+- `r icon::fontawesome("pagelines")` [`GRASS GIS`](https://grass.osgeo.org/)  
+- `r icon::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
+
+Disclaimer
+------------------------------------
+CV by [**pagedown**](https://github.com/rstudio/pagedown) R package.  
+Code available on `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
+Last updated on `r Sys.Date()`.
+
+[Download a PDF of this CV](https://mauriciovancine.github.io/cv/cv_mauricio_vancine_en_academic_short.pdf)
+[Complete version of this CV](https://mauriciovancine.github.io/cv/cv_mauricio_vancine_en_academic_complete.html)
+
+Main
+================================================================================
+
+Maurício Vancine {#title}
+--------------------------------------------------------------------------------
+
+### Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### São Paulo State University (UNESP), Rio Claro, SP, Brazil
+
+[Doctoral Student in Ecology, Evolution and Biodiversity](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/)
+
+N/A
+
+2020 - Present
+
+### São Paulo State University (UNESP), Rio Claro, SP, Brazil
+
+[Master in Zoology](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/zoologia/), [**Grant FAPESP**: #2017/09676-8](https://bv.fapesp.br/en/bolsas/172826/effect-of-landscape-modifications-and-climate-changes-on-the-persistence-of-amphibians-in-the-atlant/)
+
+N/A
+
+2016 - 2018
+
+### São Paulo State University (UNESP), Rio Claro, SP, Brazil
+
+[Bachelor in Ecology](https://ib.rc.unesp.br/#!/graduacao/cursos-conselho-de-curso/ecologia/), [**Grant FAPESP**: #2013/02883-7](https://bv.fapesp.br/en/bolsas/142421/effect-of-fragmentation-on-the-persistence-of-anuran-amphibians-amphibia-anura-within-the-atlanti/)
+
+N/A
+
+2011 - 2014
+
+Complementary Education {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Hierarchical Modelling of Species Communities with the R-package Hmsc (25 h)
+
+University of Helsinki (Zoom), Helsinki, Finland
+
+N/A
+
+2020
+
+### School on Community Ecology: from patterns to principles (60 h)
+
+São Paulo State University (UNESP), São Paulo, SP, Brazil
+
+N/A
+
+2020
+
+### Introduction to Hierarchical Modeling (45 h)
+
+Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, RS, Brazil
+
+N/A
+
+2019
+
+
+### Geoprocessing with GRASS GIS (24 h)
+
+São Paulo State University (UNESP), Rio Claro, SP, Brazil
+
+N/A
+
+2016
+
+### V Southern-Summer School on Mathematical Biology  (53 h)
+
+São Paulo State University (UNESP), São Paulo, SP, Brazil
+
+N/A
+
+2016
+
+### Biology and conservation of amphibians and reptiles (44 h)
+
+Instituto Boitatá, IBEC, Alfenas, MG, Brazil
+
+N/A
+
+2015
+
+### Ecological data analysis with R (40 h)
+
+São Paulo State University (UNESP), Rio Claro, SP, Brazil
+
+N/A
+
+2011
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Research Assistant (2000 h)
+
+São Paulo State University (UNESP)  
+[Spatial Ecology and Conservation Lab (LEEC)](https://ib.rc.unesp.br/#!/departamentos/ecologia/leec/home/), Rio Claro, SP, Brazil
+
+N/A
+
+2015 - 2016
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [Publons](https://publons.com/researcher/F-7305-2016/)
+
+N/A
+
+N/A
+
+N/A
+
+### [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888) 
+
+N/A
+
+N/A
+
+N/A
+
+### [Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
+
+N/A
+
+N/A
+
+N/A

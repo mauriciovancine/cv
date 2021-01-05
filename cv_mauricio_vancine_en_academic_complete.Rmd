@@ -50,6 +50,7 @@ Code available on `r icon::fontawesome("github")` [GitHub](https://github.com/ma
 Last updated on `r Sys.Date()`.
 
 [Download a PDF of this CV](https://mauriciovancine.github.io/cv/cv_mauricio_vancine_en_academic_complete.pdf)
+[Short version of this CV](https://mauriciovancine.github.io/cv/cv_mauricio_vancine_en_academic_short.html)
 
 Main
 ================================================================================
@@ -57,7 +58,7 @@ Main
 Maurício Vancine {#title}
 --------------------------------------------------------------------------------
 
-Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
+### Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -90,7 +91,7 @@ Rio Claro, SP, Brazil
 
 Rio Claro, SP, Brazil
 
-2011 - 2015
+2011 - 2014
 
 **Thesis**: Effect of fragmentation on the persistence of anuran amphibians (Amphibia: Anura) within the Atlantic Forest ([UNESP Libraries](https://repositorio.unesp.br/handle/11449/138991))  
 **Advisor**: Prof. Milton Cezar Ribeiro
