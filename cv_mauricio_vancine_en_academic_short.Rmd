@@ -114,7 +114,6 @@ N/A
 
 2019
 
-
 ### Geoprocessing with GRASS GIS (24 h)
 
 São Paulo State University (UNESP), Rio Claro, SP, Brazil
@@ -130,14 +129,6 @@ São Paulo State University (UNESP), São Paulo, SP, Brazil
 N/A
 
 2016
-
-### Biology and conservation of amphibians and reptiles (44 h)
-
-Instituto Boitatá, IBEC, Alfenas, MG, Brazil
-
-N/A
-
-2015
 
 ### Ecological data analysis with R (40 h)
 
