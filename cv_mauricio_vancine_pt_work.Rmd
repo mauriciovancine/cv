@@ -40,7 +40,7 @@ Programação {#contact}
 Softwares {#contact}
 --------------------------------------------------------------------------------
 - `r icon::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)  
-- `r icon::fontawesome("pagelines")` [`GRASS GIS`](https://grass.osgeo.org/)  
+- `r icon::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)  
 - `r icon::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
 Disclaimer

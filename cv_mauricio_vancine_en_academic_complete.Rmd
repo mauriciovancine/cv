@@ -21,26 +21,26 @@ Contact {#contact}
 
 Themes {#contact}
 --------------------------------------------------------------------------------
-- `r icon::fontawesome("globe")` `Spatial Ecology`  
-- `r icon::fontawesome("globe-americas")` `Landscape Ecology`  
-- `r icon::fontawesome("chart-bar")` `Ecology Modeling`  
-- `r icon::fontawesome("layer-group")` `Species Distribution Modeling (SDM)`  
-- `r icon::fontawesome("map-marked-alt")` `Geoprocessing`  
+- `r icon::fontawesome("globe")` `Spatial Ecology`
+- `r icon::fontawesome("globe-americas")` `Landscape Ecology`
+- `r icon::fontawesome("chart-bar")` `Ecology Modeling`
+- `r icon::fontawesome("layer-group")` `Species Distribution Modeling (SDM)`
+- `r icon::fontawesome("map-marked-alt")` `Geoprocessing`
 - `r icon::fontawesome("chalkboard-teacher")` `Teaching Ecology, Statistics and R`
 
 Programming {#contact}
 --------------------------------------------------------------------------------
-- `r icon::fontawesome("r-project")` [`R`](https://www.r-project.org/)  
-- `r icon::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)  
-- `r icon::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)  
-- `r icon::fontawesome("code-branch")` [`Git`](https://git-scm.com/)  
-- `r icon::fontawesome("python")` [`Python`](https://www.python.org/)  
+- `r icon::fontawesome("r-project")` [`R`](https://www.r-project.org/)
+- `r icon::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)
+- `r icon::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)
+- `r icon::fontawesome("code-branch")` [`Git`](https://git-scm.com/)
+- `r icon::fontawesome("python")` [`Python`](https://www.python.org/)
 - `r icon::fontawesome("terminal")` [`Bash`](https://www.gnu.org/software/bash/)
 
 Software {#contact}
 --------------------------------------------------------------------------------
-- `r icon::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)  
-- `r icon::fontawesome("pagelines")` [`GRASS GIS`](https://grass.osgeo.org/)  
+- `r icon::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)
+- `r icon::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)
 - `r icon::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
 Disclaimer
