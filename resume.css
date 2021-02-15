@@ -14,7 +14,7 @@
   --content-width: calc(var(--page-width) - var(--margin-right) - var(--margin-left));
   --root-font-size: 12pt;
   --sidebar-width: 13rem;
-  --sidebar-background-color: #f2f2f2;
+  --sidebar-background-color: #dbecff;
   --main-width: calc(var(--content-width) - var(--sidebar-width));
   --decorator-horizontal-margin: 0.2in;
   --sidebar-horizontal-padding: 0.1in;
@@ -411,6 +411,7 @@ h1, h2{
     margin: var(--viewer-pages-spacing) 0;
   }
 }
+
  @media screen and (min-width: 8.5in) {
   /* not a mobile */
   body {
