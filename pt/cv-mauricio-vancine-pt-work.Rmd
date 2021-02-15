@@ -49,7 +49,8 @@ CV pelo pacote [**pagedown**](https://github.com/rstudio/pagedown).
 Código em `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
 Atualizado em `r Sys.Date()`.
 
-[Download PDF deste CV](https://mauriciovancine.github.io/cv/cv_mauricio_vancine_pt_work_complete.pdf)
+[Download PDF deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-work-complete.pdf)
+
 
 Main
 ================================================================================

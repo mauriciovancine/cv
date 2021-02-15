@@ -49,8 +49,8 @@ CV by [**pagedown**](https://github.com/rstudio/pagedown) R package.
 Code available on `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
 Last updated on `r Sys.Date()`.
 
-[Download a PDF of this CV](https://mauriciovancine.github.io/cv/cv_mauricio_vancine_en_academic_short.pdf)
-[Complete version of this CV](https://mauriciovancine.github.io/cv/cv_mauricio_vancine_en_academic_complete.html)
+[Download a PDF of this CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-short.pdf)
+[Complete version of this CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-complete.html)
 
 Main
 ================================================================================
