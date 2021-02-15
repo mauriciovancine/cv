@@ -1,0 +1,178 @@
+---
+title: "Maurício Vancine"
+author: Maurício Vancine
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: resume.css
+---
+
+Aside
+================================================================================
+
+Contato {#contact}
+--------------------------------------------------------------------------------
+- `r icon::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
+- `r icon::fontawesome("envelope", style = "solid")` mauricio.vancine@gmail.com
+- `r icon::fontawesome("twitter")` [mauriciovancine](https://twitter.com/mauriciovancine)
+- `r icon::fontawesome("github")` [github/mauriciovancine](https://github.com/mauriciovancine)
+
+Temas {#contact}
+--------------------------------------------------------------------------------
+- `r icon::fontawesome("globe")` `Ecologia Espacial`
+- `r icon::fontawesome("globe-americas")` `Ecologia da Paisagem`
+- `r icon::fontawesome("chart-bar")` `Modelagem Ecológica`
+- `r icon::fontawesome("layer-group")` `Modelagem de Distribuição de Espécies`
+- `r icon::fontawesome("map-marked-alt")` `Geoprocessamento`
+- `r icon::fontawesome("chalkboard-teacher")` `Ensino de Ecologia, Estatística e R`
+
+Programação {#contact}
+--------------------------------------------------------------------------------
+- `r icon::fontawesome("r-project")` [`R`](https://www.r-project.org/)
+- `r icon::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)
+- `r icon::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)
+- `r icon::fontawesome("code-branch")` [`Git`](https://git-scm.com/)
+- `r icon::fontawesome("python")` [`Python`](https://www.python.org/)
+- `r icon::fontawesome("terminal")` [`Bash`](https://www.gnu.org/software/bash/)
+
+Softwares {#contact}
+--------------------------------------------------------------------------------
+- `r icon::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)
+- `r icon::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)
+- `r icon::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
+
+Disclaimer
+------------------------------------
+CV pelo pacote [**pagedown**](https://github.com/rstudio/pagedown).  
+Código em `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
+Atualizado em `r Sys.Date()`.
+
+[Download PDF deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)
+[Versão completa deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
+
+Main
+================================================================================
+
+Maurício Vancine {#title}
+--------------------------------------------------------------------------------
+
+### Ecólogo e Doutorando em Ecologia, Evolução e Biodiversidade
+
+Formação {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+
+### Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+[Doutorando em Ecologia, Evolução e Biodiversidade](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/)
+
+N/A
+
+2020 - Presente
+
+### Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+[Mestre em Zoologia](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/zoologia/), [**Bolsa FAPESP**: 2017/09676-8](https://bv.fapesp.br/en/bolsas/172826/effect-of-landscape-modifications-and-climate-changes-on-the-persistence-of-amphibians-in-the-atlant/)
+
+N/A
+
+2016 - 2018
+
+### Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+[Bacharel em Ecologia](https://ib.rc.unesp.br/#!/graduacao/cursos-conselho-de-curso/ecologia/), [**Bolsa FAPESP**: 2013/02883-7](https://bv.fapesp.br/en/bolsas/142421/effect-of-fragmentation-on-the-persistence-of-anuran-amphibians-amphibia-anura-within-the-atlanti/)
+
+N/A
+
+2011 - 2014
+
+Formação Complementar {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Hierarchical Modelling of Species Communities with the R-package Hmsc (25 h)
+
+Universidade de Helsinki (Zoom), Helsinki, Finlândia
+
+N/A
+
+2020
+
+### School on Community Ecology: from patterns to principles (60 h)
+
+Universidade Estadual Paulista (UNESP), São Paulo, SP, Brasil
+
+N/A
+
+2020
+
+### Introdução à Modelagem Hierárquica (45 h)
+
+Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS
+
+N/A
+
+2019
+
+### Geoprocessamento com GRASS GIS (24 h)
+
+Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+N/A
+
+2016
+
+### V Escola de verão de biologia matemática (53 h)
+
+Universidade Estadual Paulista (UNESP), São Paulo, SP
+
+N/A
+
+2016
+
+### Análise de dados ecológicos com R (40 h)
+
+Universidade Estadual Paulista (UNESP), Rio Claro, SP
+
+N/A
+
+2011
+
+Experiência em Pesquisa {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Assistente de Pesquisa (2000 h)
+
+Universidade Estadual Paulista (UNESP)  
+[Labotatório de Ecologia Espacial e Conservação (LEEC)](https://ib.rc.unesp.br/#!/departamentos/ecologia/leec/home/), Rio Claro, SP, Brasil
+
+N/A
+
+2015 - 2016
+
+Publicações {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [Publons](https://publons.com/researcher/F-7305-2016/)
+
+N/A
+
+N/A
+
+N/A
+
+### [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888) 
+
+N/A
+
+N/A
+
+N/A
+
+### [Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)
+
+N/A
+
+N/A
+
+N/A
