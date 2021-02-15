@@ -12,6 +12,9 @@ output:
 Aside
 ================================================================================
 
+<i class='fas fa-file-pdf'></i> [Download deste CV em PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)  
+<i class='fas fa-download'></i> [Versão longa deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
+
 Contato {#contact}
 --------------------------------------------------------------------------------
 - `r icon::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
@@ -51,9 +54,6 @@ Disclaimer
 CV pelo pacote [**pagedown**](https://github.com/rstudio/pagedown).  
 Código em `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
 Atualizado em `r Sys.Date()`.
-
-[Download PDF deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)
-[Versão completa deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
 
 Main
 ================================================================================
