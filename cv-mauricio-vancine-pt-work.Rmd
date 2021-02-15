@@ -28,7 +28,7 @@ Temas {#contact}
 - `r icon::fontawesome("map-marked-alt")` `Geoprocessamento`  
 - `r icon::fontawesome("chalkboard-teacher")` `Ensino de Ecologia, Estatística e R`
 
-Programação {#contact}
+Habilidades {#contact}
 --------------------------------------------------------------------------------
 - `r icon::fontawesome("r-project")` [`R`](https://www.r-project.org/)  
 - `r icon::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)  
@@ -36,21 +36,21 @@ Programação {#contact}
 - `r icon::fontawesome("code-branch")` [`Git`](https://git-scm.com/)  
 - `r icon::fontawesome("python")` [`Python`](https://www.python.org/)  
 - `r icon::fontawesome("terminal")` [`Bash`](https://www.gnu.org/software/bash/)
-
-Softwares {#contact}
---------------------------------------------------------------------------------
 - `r icon::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)  
 - `r icon::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)  
 - `r icon::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
+Línguas {#skills}
+--------------------------------------------------------------------------------
+- Português (Falante nativo)
+- Inglês (A2)
+- Espanhol (A1)
+
 Disclaimer
 ------------------------------------
-CV pelo pacote [**pagedown**](https://github.com/rstudio/pagedown).  
-Código em `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
 Atualizado em `r Sys.Date()`.
 
 [Download PDF deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-work-complete.pdf)
-
 
 Main
 ================================================================================
@@ -58,7 +58,7 @@ Main
 Maurício Vancine {#title}
 --------------------------------------------------------------------------------
 
-### Doutorando espacializado em Ecologia Espacial, Ecologia Quantitativa, Modelos de Distribuição de Espécies, Análise de Dados Ecológicos e Análise de Dados Geoespaciais
+### Doutorando em Ecologia, Evolução e Biodiversidade
 
 Formação {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -584,7 +584,7 @@ Publicações {data-icon=file}
 
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system
 
-*Diversity and Distributions* 27(4):416-426
+*Diversity and Distributions* 27(3):416-426
 
 N/A
 
