@@ -29,7 +29,7 @@ Temas {#contact}
 - `r icon::fontawesome("chart-bar")` `Modelagem Ecológica`
 - `r icon::fontawesome("layer-group")` `Modelagem de Distribuição de Espécies`
 - `r icon::fontawesome("map-marked-alt")` `Geoprocessamento`
-- `r icon::fontawesome("chalkboard-teacher")` `Ensino de Ecologia, Estatística e R`
+- `r icon::fontawesome("frog")` `Ecologia e Conservação de anfíbios`
 
 Habilidades {#skills}
 --------------------------------------------------------------------------------
