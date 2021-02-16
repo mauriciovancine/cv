@@ -29,7 +29,7 @@ Themes {#contact}
 - `r icon::fontawesome("chart-bar")` `Ecology Modeling`
 - `r icon::fontawesome("layer-group")` `Species Distribution Modeling (SDM)`
 - `r icon::fontawesome("map-marked-alt")` `Geoprocessing`
-- `r icon::fontawesome("frog")` `Amphibian Ecology and Convervation`
+- `r icon::fontawesome("frog")` `Amphibian Ecology`
 
 Skills {#skills}
 --------------------------------------------------------------------------------
