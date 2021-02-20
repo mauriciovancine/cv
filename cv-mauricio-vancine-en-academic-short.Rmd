@@ -61,7 +61,7 @@ Main
 Maurício Vancine {#title}
 --------------------------------------------------------------------------------
 
-### Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
+### Spatial Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------

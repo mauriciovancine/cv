@@ -60,7 +60,7 @@ Main
 Maurício Vancine {#title}
 --------------------------------------------------------------------------------
 
-### Doutorando em Ecologia, Evolução e Biodiversidade
+### Ecólogo Espacial e Doutorando em Ecologia, Evolução e Biodiversidade
 
 Formação {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -584,6 +584,24 @@ Rio Claro, SP, Brasil
 Publicações {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 14. Future impacts of climate change on migratory bird flyways in South America
+
+*The Condor: Ornithological Applications*
+
+N/A
+
+2021
+
+DOI: [10.1111]()  
+Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
+
+::: aside
+**Citations**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
+
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system
 
 *Diversity and Distributions* 27(3):416-426
@@ -595,13 +613,6 @@ N/A
 DOI: [10.1111/ddi.13201](https://doi.org/10.1111/ddi.13201)
 <br>
 Gusmão RAF, Hernandes FRA, <u>**Vancine MH**</u>, Naka LN, Doña J, Gonçalves-Souza T
-
-::: aside
-**Citações**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
 
 ### 12. Environmental niche and functional role similarity between invasive and native palms in the Atlantic Forest
 
