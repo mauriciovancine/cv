@@ -420,8 +420,26 @@ h1, h2{
   }
 }
 
+ /* unvisited link */
+a:link {
+  color: blue;
+  text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
 a:hover {
-	text-decoration: underline;
+  color: purple;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: purple;
 }
 
 /* Book icon isn't centered by default which is lame */

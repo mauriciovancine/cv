@@ -35,9 +35,9 @@ Habilidades {#contact}
 - `r icon::fontawesome("r-project")` [`R`](https://www.r-project.org/)  
 - `r icon::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)  
 - `r icon::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)  
-- `r icon::fontawesome("code-branch")` [`Git`](https://git-scm.com/)  
-- `r icon::fontawesome("python")` [`Python`](https://www.python.org/)  
-- `r icon::fontawesome("terminal")` [`Bash`](https://www.gnu.org/software/bash/)
+- `r icon::fontawesome("code-branch")` [`git (básico)`](https://git-scm.com/)
+- `r icon::fontawesome("python")` [`python (básico)`](https://www.python.org/)
+- `r icon::fontawesome("terminal")` [`bash (básico)`](https://www.gnu.org/software/bash/)
 - `r icon::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)  
 - `r icon::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)  
 - `r icon::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
@@ -61,6 +61,8 @@ Maurício Vancine {#title}
 --------------------------------------------------------------------------------
 
 ### Ecólogo Espacial e Doutorando em Ecologia, Evolução e Biodiversidade
+
+Sou Ecólogo Espacial e Doutorando no Departamento de Biodiversidade da Universidade Estadual Paulista, Rio Claro, Brasil. Possuo experiência em ecologia da paisagem, efeitos da perda e fragmentação de habitat, ecologia de anfíbios, modelagem de distribuição de espécies, análise de dados ecológicos e espaciais.
 
 Formação {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -592,7 +594,7 @@ N/A
 
 2021
 
-DOI: [10.1111]()  
+DOI: *in press*
 Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
 
 ::: aside
