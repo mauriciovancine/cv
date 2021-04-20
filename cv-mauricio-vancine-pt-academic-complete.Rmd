@@ -615,9 +615,9 @@ Rio Claro, SP, Brasil
 Publicações {data-icon=file}
 --------------------------------------------------------------------------------
 
-### 14. Future impacts of climate change on migratory bird flyways in South America
+### 15. Distribution of macroalgal epiphytes and host species from the Cuban marine shelf inferred from ecological modelling
 
-*The Condor: Ornithological Applications*
+*Aquatic Botany* 123:1-16
 
 N/A
 
@@ -625,6 +625,7 @@ N/A
 
 DOI: *in press*
 Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
+Capote AJ, Cabrera A, Ramos A, <u>**Vancine MH**</u>, Suarez AM, Machell J, Perez-Llorens JL
 
 ::: aside
 **Citations**  
@@ -632,6 +633,17 @@ Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
 [Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
 :::
+
+### 14. Future impacts of climate change on migratory bird flyways in South America
+
+*The Condor: Ornithological Applications* 123:1-16
+
+N/A
+
+2021
+
+DOI: https://doi.org/10.1093/ornithapp/duab006
+Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
 
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system
 
