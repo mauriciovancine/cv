@@ -624,7 +624,10 @@ N/A
 2021
 
 DOI: [10.1016/j.aquabot.2021.103395](https://doi.org/10.1016/j.aquabot.2021.103395)
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> 7b95c650ebf5c251bc478cf5b800b48b14e18722
 Jover A, Cabrera A, Ramos A, <u>**Vancine MH**</u>, Suárez AM, Machell J, Perez-Llórens JL
 
 ::: aside
@@ -643,7 +646,10 @@ N/A
 2021
 
 DOI: [10.1093/ornithapp/duab006](https://doi.org/10.1093/ornithapp/duab006)
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> 7b95c650ebf5c251bc478cf5b800b48b14e18722
 Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
 
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system
