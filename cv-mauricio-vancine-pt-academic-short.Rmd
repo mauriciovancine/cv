@@ -12,8 +12,8 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download deste CV em PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)  
-<i class='fas fa-download'></i> [Versão longa deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)  
+<i class='fas fa-download'></i> [Versão longa CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
 
 Contato {#contact}
 --------------------------------------------------------------------------------
