@@ -12,8 +12,8 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download deste CV em PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)  
-<i class='fas fa-download'></i> [Versão longa deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
+<i class='fas fa-file-pdf'></i> [CV PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)  
+<i class='fas fa-download'></i> [CV completo](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
 
 Contato {#contact}
 --------------------------------------------------------------------------------
@@ -63,7 +63,7 @@ Maurício Vancine {#title}
 
 ### Ecólogo Espacial e Doutorando em Ecologia, Evolução e Biodiversidade
 
-Sou Ecólogo Espacial e Doutorando no Departamento de Biodiversidade da Universidade Estadual Paulista, Rio Claro, Brasil. Possuo experiência em ecologia da paisagem, efeitos da perda e fragmentação de habitat, ecologia de anfíbios, modelagem de distribuição de espécies, análise de dados ecológicos e espaciais.
+Sou Ecólogo Espacial e Doutorando na Unesp Rio Claro, Brasil. Possuo experiência em ecologia da paisagem, efeitos da perda e fragmentação de habitat, ecologia de anfíbios, modelagem de distribuição de espécies, e análise de dados ecológicos e espaciais.
 
 Formação {data-icon=graduation-cap}
 --------------------------------------------------------------------------------

@@ -12,8 +12,8 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download deste CV em PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.pdf)  
-<i class='fas fa-download'></i> [Versão curta deste CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.html)
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.pdf)  
+<i class='fas fa-download'></i> [Versão curta](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.html)
 
 Contato {#contact}
 --------------------------------------------------------------------------------
@@ -63,7 +63,7 @@ Maurício Vancine {#title}
 
 ### Ecólogo Espacial e Doutorando em Ecologia, Evolução e Biodiversidade
 
-Sou Ecólogo Espacial e Doutorando no Departamento de Biodiversidade da Universidade Estadual Paulista, Rio Claro, Brasil. Possuo experiência em ecologia da paisagem, efeitos da perda e fragmentação de habitat, ecologia de anfíbios, modelagem de distribuição de espécies, análise de dados ecológicos e espaciais.
+Sou Ecólogo Espacial e Doutorando na Unesp Rio Claro, Brasil. Possuo experiência em ecologia da paisagem, efeitos da perda e fragmentação de habitat, ecologia de anfíbios, modelagem de distribuição de espécies, e análise de dados ecológicos e espaciais.
 
 Formação {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -617,15 +617,15 @@ Publicações {data-icon=file}
 
 ### 15. Distribution of macroalgal epiphytes and host species from the Cuban marine shelf inferred from ecological modelling
 
-*Aquatic Botany* 123:1-16
+*Aquatic Botany* 172:103395
 
 N/A
 
 2021
 
-DOI: *in press*
-Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
-Capote AJ, Cabrera A, Ramos A, <u>**Vancine MH**</u>, Suarez AM, Machell J, Perez-Llorens JL
+DOI: [10.1016/j.aquabot.2021.103395](https://doi.org/10.1016/j.aquabot.2021.103395)
+<br>
+Jover A, Cabrera A, Ramos A, <u>**Vancine MH**</u>, Suárez AM, Machell J, Perez-Llórens JL
 
 ::: aside
 **Citations**  
@@ -642,7 +642,8 @@ N/A
 
 2021
 
-DOI: https://doi.org/10.1093/ornithapp/duab006
+DOI: [10.1093/ornithapp/duab006](https://doi.org/10.1093/ornithapp/duab006)
+<br>
 Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
 
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system

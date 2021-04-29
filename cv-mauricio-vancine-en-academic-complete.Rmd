@@ -12,8 +12,8 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download this CV in PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-complete.pdf)  
-<i class='fas fa-download'></i> [Short version of this CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-short.html)
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-complete.pdf)  
+<i class='fas fa-download'></i> [Short version](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-short.html)
 
 Contact {#contact}
 --------------------------------------------------------------------------------
@@ -63,7 +63,7 @@ Maurício Vancine {#title}
 
 ### Spatial Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
 
-I am a Spatial Ecologist and Doctoral Student at the Department of Biodiversity of the São Paulo State University, Rio Claro/SP, Brazil. I have experience in landscape ecology, effects of habitat loss and fragmentation, amphibian ecology, species distribution modeling (SDM), analysis of ecological and spatial data.
+I am a Spatial Ecologist and PhD student at Unesp Rio Claro, Brazil. I have experience in landscape ecology, effects of habitat loss and fragmentation, amphibian ecology, species distribution modeling, and analysis of ecological and spatial data.
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -620,15 +620,15 @@ Publications {data-icon=file}
 
 ### 15. Distribution of macroalgal epiphytes and host species from the Cuban marine shelf inferred from ecological modelling
 
-*Aquatic Botany* 123:1-16
+*Aquatic Botany* 172:103395
 
 N/A
 
 2021
 
-DOI: *in press*
-Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
-Capote AJ, Cabrera A, Ramos A, <u>**Vancine MH**</u>, Suarez AM, Machell J, Perez-Llorens JL
+DOI: [10.1016/j.aquabot.2021.103395](https://doi.org/10.1016/j.aquabot.2021.103395)
+<br>
+Jover A, Cabrera A, Ramos A, <u>**Vancine MH**</u>, Suárez AM, Machell J, Perez-Llórens JL
 
 ::: aside
 **Citations**  
@@ -645,7 +645,8 @@ N/A
 
 2021
 
-DOI: https://doi.org/10.1093/ornithapp/duab006
+DOI: [10.1093/ornithapp/duab006](https://doi.org/10.1093/ornithapp/duab006)
+<br>
 Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
 
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system
@@ -656,7 +657,8 @@ N/A
 
 2021
 
-DOI: [10.1111/ddi.13201](https://doi.org/10.1111/ddi.13201)  
+DOI: [10.1111/ddi.13201](https://doi.org/10.1111/ddi.13201)
+<br>
 Gusmão RAF, Hernandes FRA, <u>**Vancine MH**</u>, Naka LN, Doña J, Gonçalves-Souza T
 
 ### 12. Environmental niche and functional role similarity between invasive and native palms in the Atlantic Forest
@@ -667,7 +669,8 @@ N/A
 
 2021
 
-DOI: [10.1007/s10530-020-02400-8](https://doi.org/10.1007/s10530-020-02400-8)  
+DOI: [10.1007/s10530-020-02400-8](https://doi.org/10.1007/s10530-020-02400-8)
+<br>
 Bello C, Cintra ALP, Barreto E, <u>**Vancine MH**</u>, Sobral-Souza T, Graham CH, Galetti M
 
 ### 11. Effects of landscape modification on species richness patterns of fruit-feeding butterflies in Brazilian Atlantic Forest
@@ -678,7 +681,8 @@ N/A
 
 2020
 
-DOI: [10.1111/ddi.13007](https://doi.org/10.1111/ddi.13007)  
+DOI: [10.1111/ddi.13007](https://doi.org/10.1111/ddi.13007)
+<br>
 Santos JP, Sobral-Souza T, Brown Jr KS, <u>**Vancine MH**</u>, Ribeiro MC, Freitas AVL
 
 ### 10. Fragmented tropical forests lose mutualistic plant-animal interactions
@@ -689,7 +693,8 @@ N/A
 
 2020
 
-DOI: [10.1111/ddi.13010](https://doi.org/10.1111/ddi.13010)  
+DOI: [10.1111/ddi.13010](https://doi.org/10.1111/ddi.13010)
+<br>
 Marjakangas E, Abrego N, Grøtan V, Lima RAF, Bello C, Bovendorp RS, Culot L, Hasui E, Muylaert RL, Lima F, Niebuhr B, Oliveira AA, Pereira L, Prado I, Stevens RD, <u>**Vancine MH**</u>, Ribeiro MC, Galetti M, Ovaskainen O
 
 ### 9. Predicting the potential hybridization zones between native and invasive marmosets within Neotropical biodiversity hotspots
@@ -700,7 +705,8 @@ N/A
 
 2019
 
-DOI: [10.1016/j.gecco.2019.e00706](https://doi.org/10.1016/j.gecco.2019.e00706)  
+DOI: [10.1016/j.gecco.2019.e00706](https://doi.org/10.1016/j.gecco.2019.e00706)
+<br>
 Moraes AM, <u>**Vancine MH**</u>, Moraes AM, Cordeiro CLO, Pinto MP, Lima AA, Culot L, Silva TSF, Collevatti RG, Ribeiro MC, Sobral-Souza T
 
 ### 8. Land-use changes and the expansion of biofuel crops threaten the giant anteater in southeastern Brazil
@@ -711,7 +717,8 @@ N/A
 
 2019
 
-DOI: [10.1093/jmammal/gyz042](https://doi.org/10.1093/jmammal/gyz042)  
+DOI: [10.1093/jmammal/gyz042](https://doi.org/10.1093/jmammal/gyz042)
+<br>
 Bertassoni A, Costa RT, Gouvea JA, Bianchi BC, Ribeiro JW, <u>**Vancine MH**</u>, Ribeiro MC
 
 ### 7. Spatial prediction of risk areas for vector transmission of Trypanosoma cruzi in the State of Paraná, southern Brazil
@@ -722,7 +729,8 @@ N/A
 
 2018
 
-DOI: [10.1371/journal.pntd.0006907](https://doi.org/10.1371/journal.pntd.0006907)  
+DOI: [10.1371/journal.pntd.0006907](https://doi.org/10.1371/journal.pntd.0006907)
+<br>
 Ferro e Silva AM, Sobral-Souza T, <u>**Vancine MH**</u>, Muylaert RL, Abreu AP, Pelloso SM, Carvalho MDB, Andrade L, Ribeiro MC, Toledo MJO 
 
 ### 6. A note on the territorial limits of the Atlantic Forest
@@ -733,7 +741,8 @@ N/A
 
 2018
 
-DOI: [10.4257/oeco.2018.2203.09](https://doi.org/10.4257/oeco.2018.2203.09)  
+DOI: [10.4257/oeco.2018.2203.09](https://doi.org/10.4257/oeco.2018.2203.09)
+<br>
 Muylaert RL, <u>**Vancine MH**</u>, Bernardo R, Oshima JEF, Sobral-Souza T, Tonett VR, Niebuhr BBS, Ribeiro MC
 
 ### 5. ATLANTIC AMPHIBIANS: a data set of amphibian communities from the Atlantic Forests of South America
@@ -744,7 +753,8 @@ N/A
 
 2018
 
-DOI: [10.1002/ecy.2392](https://doi.org/10.1002/ecy.2392)  
+DOI: [10.1002/ecy.2392](https://doi.org/10.1002/ecy.2392)
+<br>
 <u>**Vancine MH**</u>, Duarte KS, Souza YS, Giovanelli JGR, Sobrinho PMM, López A, Bovo RP, Maffei F, Lion MB, Ribeiro-Júnior JW, Brassaloti R, Ortiz C, Sawakuchi HO, Forti LR, Cacciali P, Bertoluci J, Haddad CFB, Ribeiro MC
 
 ### 4. Efficiency of protected areas in Amazon and Atlantic Forest conservation: A spatio-temporal view
@@ -755,7 +765,8 @@ N/A
 
 2018
 
-DOI: [10.1016/j.actao.2018.01.001](https://doi.org/10.1016/j.actao.2018.01.001)  
+DOI: [10.1016/j.actao.2018.01.001](https://doi.org/10.1016/j.actao.2018.01.001)
+<br>
 Sobral-Souza T, <u>**Vancine MH**</u>, Ribeiro MC, Lima-Ribeiro MS
 
 ### 3. Forest cover influences occurrence of mammalian carnivores within Brazilian Atlantic Forest
@@ -766,7 +777,8 @@ N/A
 
 2017
 
-DOI: [10.1093/jmammal/gyx103](https://doi.org/10.1093/jmammal/gyx103)  
+DOI: [10.1093/jmammal/gyx103](https://doi.org/10.1093/jmammal/gyx103)
+<br>
 Regolin AL, Cherem JJ, Graipel ME, Bogoni JA, Ribeiro JW, <u>**Vancine MH**</u>, Tortato MA, Oliveira-Santos LG, Fantacini FM, Luiz MR, Castilho PV, Ribeiro MC, Cáceres, NC
 
 ### 2. Impacts of mining activities on the potential geographic distribution of eastern Brazil mountaintop endemic species. 
@@ -777,7 +789,8 @@ N/A
 
 2017
 
-DOI: [10.1016/j.pecon.2017.07.005](https://doi.org/10.1016/j.pecon.2017.07.005)  
+DOI: [10.1016/j.pecon.2017.07.005](https://doi.org/10.1016/j.pecon.2017.07.005)
+<br>
 De Castro Pena J, Goulart F, Fernandes GW, Hoffmann D, Leite FSF, Santos NB, Soares-Filho B, Sobral-Souza T, <u>**Vancine MH**</u>, Rodrigues M
 
 ### 1. High mammal species turnover in forest patches immersed in biofuel plantations
@@ -788,5 +801,6 @@ N/A
 
 2017
 
-DOI: [10.1016/j.biocon.2017.02.033](https://doi.org/10.1016/j.biocon.2017.02.033)  
+DOI: [10.1016/j.biocon.2017.02.033](https://doi.org/10.1016/j.biocon.2017.02.033)
+<br>
 Beca G, <u>**Vancine MH**</u>, Carvalho CS, Pedrosa F, Alves RSC, Buscariol D, Peres CA, Ribeiro MC, Galetti M
