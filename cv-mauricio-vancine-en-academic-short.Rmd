@@ -12,7 +12,8 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-short.pdf)  
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-short.pdf)
+<br>
 <i class='fas fa-download'></i> [Complete version](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-complete.html)
 
 Contact {#contact}
@@ -63,7 +64,7 @@ Maurício Vancine {#title}
 
 ### Spatial Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
 
-I am a Spatial Ecologist and PhD student at Unesp Rio Claro, Brazil. I have experience in landscape ecology, effects of habitat loss and fragmentation, amphibian ecology, species distribution modeling, and analysis of ecological and spatial data.
+I am a Spatial Ecologist and PhD student at Unesp Rio Claro, Brazil. I have experience in landscape ecology, habitat loss and fragmentation, amphibian ecology, species distribution modeling, and analysis of ecological and spatial data.
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -95,7 +96,7 @@ N/A
 Complementary Education {data-icon=book}
 --------------------------------------------------------------------------------
 
-### Hierarchical Modelling of Species Communities with the R-package Hmsc (25 h)
+### Hierarchical Modelling of Species Communities with Hmsc (25 h)
 
 University of Helsinki (Zoom), Helsinki, Finland
 
@@ -134,14 +135,6 @@ São Paulo State University (UNESP), São Paulo, SP, Brazil
 N/A
 
 2016
-
-### Ecological data analysis with R (40 h)
-
-São Paulo State University (UNESP), Rio Claro, SP, Brazil
-
-N/A
-
-2011
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------

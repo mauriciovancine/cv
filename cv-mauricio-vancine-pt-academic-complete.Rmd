@@ -12,7 +12,8 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.pdf)  
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.pdf)
+<br>
 <i class='fas fa-download'></i> [Versão curta](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.html)
 
 Contato {#contact}
@@ -27,8 +28,7 @@ Temas {#contact}
 - `r icon::fontawesome("globe")` `Ecologia Espacial`
 - `r icon::fontawesome("globe-americas")` `Ecologia da Paisagem`
 - `r icon::fontawesome("chart-bar")` `Modelagem Ecológica`
-- `r icon::fontawesome("layer-group")` `Modelagem de Distribuição de Espécies`
-- `r icon::fontawesome("map-marked-alt")` `Geoprocessamento`
+- `r icon::fontawesome("layer-group")` `Geoprocessamento`
 - `r icon::fontawesome("frog")` `Ecologia de anfíbios`
 
 Habilidades {#skills}
@@ -624,10 +624,7 @@ N/A
 2021
 
 DOI: [10.1016/j.aquabot.2021.103395](https://doi.org/10.1016/j.aquabot.2021.103395)
-<<<<<<< HEAD
 <br>
-=======
->>>>>>> 7b95c650ebf5c251bc478cf5b800b48b14e18722
 Jover A, Cabrera A, Ramos A, <u>**Vancine MH**</u>, Suárez AM, Machell J, Perez-Llórens JL
 
 ::: aside
@@ -646,10 +643,7 @@ N/A
 2021
 
 DOI: [10.1093/ornithapp/duab006](https://doi.org/10.1093/ornithapp/duab006)
-<<<<<<< HEAD
 <br>
-=======
->>>>>>> 7b95c650ebf5c251bc478cf5b800b48b14e18722
 Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
 
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system

@@ -12,13 +12,9 @@ output:
 Aside
 ================================================================================
 
-<<<<<<< HEAD
-<i class='fas fa-file-pdf'></i> [CV PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)  
-<i class='fas fa-download'></i> [CV completo](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
-=======
-<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)  
-<i class='fas fa-download'></i> [Versão longa CV](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
->>>>>>> 7b95c650ebf5c251bc478cf5b800b48b14e18722
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)
+<br>
+<i class='fas fa-download'></i> [Versão completa](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
 
 Contato {#contact}
 --------------------------------------------------------------------------------
@@ -32,8 +28,7 @@ Temas {#contact}
 - `r icon::fontawesome("globe")` `Ecologia Espacial`
 - `r icon::fontawesome("globe-americas")` `Ecologia da Paisagem`
 - `r icon::fontawesome("chart-bar")` `Modelagem Ecológica`
-- `r icon::fontawesome("layer-group")` `Modelagem de Distribuição de Espécies`
-- `r icon::fontawesome("map-marked-alt")` `Geoprocessamento`
+- `r icon::fontawesome("layer-group")` `Geoprocessamento`
 - `r icon::fontawesome("frog")` `Ecologia de anfíbios`
 
 Habilidades {#skills}
@@ -100,7 +95,7 @@ N/A
 Formação Complementar {data-icon=book}
 --------------------------------------------------------------------------------
 
-### Hierarchical Modelling of Species Communities with the R-package Hmsc (25 h)
+### Hierarchical Modelling of Species Communities with Hmsc (25 h)
 
 Universidade de Helsinki (Zoom), Helsinki, Finlândia
 
@@ -139,14 +134,6 @@ Universidade Estadual Paulista (UNESP), São Paulo, SP
 N/A
 
 2016
-
-### Análise de dados ecológicos com R (40 h)
-
-Universidade Estadual Paulista (UNESP), Rio Claro, SP
-
-N/A
-
-2011
 
 Experiência em Pesquisa {data-icon=laptop}
 --------------------------------------------------------------------------------
