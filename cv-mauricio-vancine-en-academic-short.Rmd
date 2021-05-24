@@ -18,31 +18,31 @@ Aside
 
 Contact {#contact}
 --------------------------------------------------------------------------------
-- `r icon::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
-- `r icon::fontawesome("envelope", style = "solid")` mauricio.vancine@gmail.com
-- `r icon::fontawesome("twitter")` [mauriciovancine](https://twitter.com/mauriciovancine)
-- `r icon::fontawesome("github")` [github/mauriciovancine](https://github.com/mauriciovancine)
+- `r icons::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
+- `r icons::fontawesome("envelope", style = "solid")` mauricio.vancine@gmail.com
+- `r icons::fontawesome("twitter")` [mauriciovancine](https://twitter.com/mauriciovancine)
+- `r icons::fontawesome("github")` [github/mauriciovancine](https://github.com/mauriciovancine)
 
 Themes {#contact}
 --------------------------------------------------------------------------------
-- `r icon::fontawesome("globe")` `Spatial Ecology`
-- `r icon::fontawesome("globe-americas")` `Landscape Ecology`
-- `r icon::fontawesome("chart-bar")` `Ecology Modeling`
-- `r icon::fontawesome("layer-group")` `Species Distribution Modeling (SDM)`
-- `r icon::fontawesome("map-marked-alt")` `Geoprocessing`
-- `r icon::fontawesome("frog")` `Amphibian Ecology`
+- `r icons::fontawesome("globe")` `Spatial Ecology`
+- `r icons::fontawesome("globe-americas")` `Landscape Ecology`
+- `r icons::fontawesome("chart-bar")` `Ecology Modeling`
+- `r icons::fontawesome("layer-group")` `Species Distribution Modeling (SDM)`
+- `r icons::fontawesome("map-marked-alt")` `Geoprocessing`
+- `r icons::fontawesome("frog")` `Amphibian Ecology`
 
 Skills {#skills}
 --------------------------------------------------------------------------------
-- `r icon::fontawesome("r-project")` [`R`](https://www.r-project.org/)
-- `r icon::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)
-- `r icon::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)
-- `r icon::fontawesome("code-branch")` [`git (básico)`](https://git-scm.com/)
-- `r icon::fontawesome("python")` [`python (básico)`](https://www.python.org/)
-- `r icon::fontawesome("terminal")` [`bash (básico)`](https://www.gnu.org/software/bash/)
-- `r icon::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)
-- `r icon::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)
-- `r icon::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
+- `r icons::fontawesome("r-project")` [`R`](https://www.r-project.org/)
+- `r icons::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)
+- `r icons::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)
+- `r icons::fontawesome("code-branch")` [`git (básico)`](https://git-scm.com/)
+- `r icons::fontawesome("python")` [`python (básico)`](https://www.python.org/)
+- `r icons::fontawesome("terminal")` [`bash (básico)`](https://www.gnu.org/software/bash/)
+- `r icons::fontawesome("quora")` [`QGIS`](https://qgis.org/en/site/)
+- `r icons::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)
+- `r icons::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
 Languages {#skills}
 --------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ Languages {#skills}
 Disclaimer
 ------------------------------------
 CV by [**pagedown**](https://github.com/rstudio/pagedown) R package.  
-Code available on `r icon::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
+Code available on `r icons::fontawesome("github")` [GitHub](https://github.com/mauriciovancine/cv).  
 Last updated on `r Sys.Date()`.
 
 Main
