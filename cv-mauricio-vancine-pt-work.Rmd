@@ -593,9 +593,9 @@ N/A
 
 2021
 
-DOI: [10.1111/.oik.08240](https://doi.org/10.1111/.oik.08240)
+DOI: [10.1111/oik.08240](https://doi.org/10.1111/oik.08240)
 <br>
-Monteiro E C, Pizo M, <u>**Vancine MH**</u>, Ribeiro MC
+Monteiro ECS, Pizo MA, <u>**Vancine MH**</u>, Ribeiro MC
 
 ::: aside
 **Citations**  
@@ -626,7 +626,7 @@ N/A
 
 DOI: [10.1093/ornithapp/duab006](https://doi.org/10.1093/ornithapp/duab006)
 <br>
-Da Silveira NS, <u>**Vancine MH**</u>, Jahn  AE, Pizo MA, Sobral-Souza T
+Da Silveira NS, <u>**Vancine MH**</u>, Jahn AE, Pizo MA, Sobral-Souza T
 
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system
 
