@@ -20,6 +20,8 @@ Contato {#contact}
 - `r icons::fontawesome("envelope", style = "solid")` mauricio.vancine@gmail.com
 - `r icons::fontawesome("twitter")` [mauriciovancine](https://twitter.com/mauriciovancine)
 - `r icons::fontawesome("github")` [github/mauriciovancine](https://github.com/mauriciovancine)
+- `r icons::academicons("orcid")` [0000-0001-9650-7575](https://orcid.org/0000-0001-9650-7575)
+- `r icons::academicons("lattes")` [9761288418931193](http://lattes.cnpq.br/9761288418931193)
 
 Temas {#contact}
 --------------------------------------------------------------------------------
