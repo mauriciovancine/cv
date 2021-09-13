@@ -1,7 +1,7 @@
 #' ---
 #' title: convert rmarkdown into pdf
 #' author: mauricio vancine
-#' date: 2020-04-06
+#' date: 2021-08-04
 #' ---
 
 # packages

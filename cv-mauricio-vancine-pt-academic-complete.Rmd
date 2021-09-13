@@ -617,6 +617,25 @@ Rio Claro, SP, Brasil
 Publicações {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 17. Setting Priority Conservation Management Regions to Reverse Rapid Range Decline of a Key Neotropical Forest Ungulate
+
+*Global Ecology and Conservation* *in press*
+
+N/A
+
+2021
+
+DOI: [10.1016/j.gecco.2021.e01796](https://doi.org/10.1016/j.gecco.2021.e01796)
+<br>
+Oshima JEF, Jorge MLSP, Sobral-Souza T, Börger L, Keuroghlian A, Peres CA, <u>**Vancine MH**</u>, Collen B, Ribeiro MC
+
+::: aside
+**Citations**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
+
 ### 16. Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks
 
 *Oikos* *in press*
@@ -628,13 +647,6 @@ N/A
 DOI: [10.1111/oik.08240](https://doi.org/10.1111/oik.08240)
 <br>
 Monteiro ECS, Pizo MA, <u>**Vancine MH**</u>, Ribeiro MC
-
-::: aside
-**Citations**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
 
 ### 15. Distribution of macroalgal epiphytes and host species from the Cuban marine shelf inferred from ecological modelling
 
