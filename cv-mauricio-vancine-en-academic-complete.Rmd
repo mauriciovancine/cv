@@ -375,7 +375,7 @@ N/A
 Since my formation I develop teaching activities, initially as a monitor. From the master's degree, I help and minister undergraduate and graduate courses, especially those related to Space Ecology, Species Distribution Models, Statistical Models in Ecology and Geoprocessing.
 :::
 
-### Introduction to geospatial analysis with R
+### 8. Introduction to geospatial analysis with R
 
 Invited teacher  
 Ecology, Biodiversity and Evolution Graduate Program  
@@ -390,7 +390,7 @@ Rio Claro, SP, Brazil
 - [material](https://mauriciovancine.github.io/disciplina-analise-geoespacial-r/)
 :::
 
-### Statistical Models in Ecology
+### 7. Statistical Models in Ecology
 
 Teacher  
 Ecology Undergraduate  
@@ -404,7 +404,7 @@ Rio Claro, SP, Brazil
 - 30 h 
 :::
 
-### Introduction to Geoprocessing for Ethnobiology and Biodiversity Conservation
+### 6. Introduction to Geoprocessing for Ethnobiology and Biodiversity Conservation
 
 Invited external teacher  
 Ethnobiology and Nature Conservation Graduate Program  
@@ -419,7 +419,7 @@ Recife, PE, Brazil
 - [material](https://github.com/mauriciovancine/disciplina-geoprocessamento)
 :::
 
-### Statistical Models in Ecology
+### 5. Statistical Models in Ecology
 
 Teaching assistant  
 Ecology Undergraduate  
@@ -433,7 +433,7 @@ Rio Claro, SP, Brazil
 - 12 h 
 :::
 
-### Ecological Niche Modeling: theory and practice
+### 4. Ecological Niche Modeling: theory and practice
 
 Teaching assistant  
 Ecology and Biodiversity Graduate Program  
@@ -447,7 +447,7 @@ Rio Claro, SP, Brazil
 - 60 h 
 :::
 
-### Ecological Niche Modeling: theory and practice
+### 3. Ecological Niche Modeling: theory and practice
 
 Teaching assistant  
 Ecology Graduate Program  
@@ -461,7 +461,7 @@ Campinas, SP, Brazil
 - 45 h 
 :::
 
-### Ecological Niche Modeling in R
+### 2. Ecological Niche Modeling in R
 
 Teaching assistant  
 Ecology and Biodiversity Graduate Program  
@@ -475,7 +475,7 @@ Rio Claro, SP, Brazil
 - 30 h 
 :::
 
-### Quantitative Ecology
+### 1. Quantitative Ecology
 
 Teaching assistant  
 Ecology Undergraduate  
@@ -502,7 +502,22 @@ N/A
 Since 2014, I teach practical training courses, mainly related to the R language and Species Distribution Models
 :::
 
-### Introduction to R Language
+### 9. Introduction to species distribution modeling using the R language
+
+Workshop instructor  
+[Mastozóologos Organizados em uma Conferência Online (MOCÓ)](https://moco2021.com.br/)  
+Sociedade Brasileira de Mastozoologia
+
+On-Line
+
+2021
+
+::: concise
+- 06 h
+- [material](https://github.com/mauriciovancine/workshop-r-sdm)
+:::
+
+### 8. Introduction to R Language
 
 Short course instructor  
 [XXX Ecology Studies Week](http://www.rc.unesp.br/see/)  
@@ -517,7 +532,7 @@ Rio Claro, SP, Brazil
 - [material](https://github.com/mauriciovancine/r-minicurso-see-2019)
 :::
 
-### Introduction to R Language
+### 7. Introduction to R Language
 
 Short course instructor  
 [30ª Biology Studies Week](https://www.facebook.com/SEBioRC/)  
@@ -532,7 +547,7 @@ Rio Claro, SP, Brazil
 - [material](https://github.com/mauriciovancine/r-minicurso-sebio-2019)
 :::
 
-### Introduction to Species Distribution Modeling using R Language: theory and practice
+### 6. Introduction to Species Distribution Modeling using R Language: theory and practice
 
 Short course instructor  
 [9º Brazilian Congress of Herpetology](https://9cbh.galoa.com.br/)  
@@ -547,7 +562,7 @@ Campinas, SP, Brazil
 - [material](https://github.com/mauriciovancine/r-minicurso-sdm-9-cbh)
 :::
 
-### Field work with amphibians
+### 5. Field work with amphibians
 
 Short course instructor  
 [29ª Biology Studies Week](https://www.facebook.com/SEBioRC/)  
@@ -561,7 +576,7 @@ Rio Claro, SP, Brazil
 - 08 h 
 :::
 
-### Field herpetology
+### 4. Field herpetology
 
 Short course instructor  
 [XXVII Ecology Studies Week](http://www.rc.unesp.br/see/)  
@@ -575,7 +590,7 @@ Rio Claro, SP, Brazil
 - 15 h 
 :::
 
-### Introduction to software R: data management, graphs and statistical analysis
+### 3. Introduction to software R: data management, graphs and statistical analysis
 
 Short course instructor  
 [XXVII Ecology Studies Week](http://www.rc.unesp.br/see/)  
@@ -589,7 +604,7 @@ Rio Claro, SP, Brazil
 - 16 h 
 :::
 
-### Introduction to software R
+### 2. Introduction to software R
 
 Short course instructor  
 [XXVI Ecology Studies Week](http://www.rc.unesp.br/see/)  
@@ -603,7 +618,7 @@ Rio Claro, SP, Brazil
 - 08 h 
 :::
 
-### Organization of data in electronic sheets - Calc
+### 1. Organization of data in electronic sheets - Calc
 
 Short course instructor  
 [XXV Ecology Studies Week](http://www.rc.unesp.br/see/)  
@@ -620,6 +635,25 @@ Rio Claro, SP, Brazil
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 18. Invasive wild boar’s distribution overlap with threatened native ungulate in Patagonia
+
+*Journal of Mammalogy* *in press* gyab099
+
+N/A
+
+2021
+
+DOI: [10.1093/jmammal/gyab099](https://doi.org/10.1093/jmammal/gyab099)
+<br>
+Bercê W, Bello C, Mendes CP, <u>**Vancine MH**</u>, Galetti M, Ballaru SA
+
+::: aside
+**Citations**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
+
 ### 17. Setting Priority Conservation Management Regions to Reverse Rapid Range Decline of a Key Neotropical Forest Ungulate
 
 *Global Ecology and Conservation* *in press*
@@ -631,13 +665,6 @@ N/A
 DOI: [10.1016/j.gecco.2021.e01796](https://doi.org/10.1016/j.gecco.2021.e01796)
 <br>
 Oshima JEF, Jorge MLSP, Sobral-Souza T, Börger L, Keuroghlian A, Peres CA, <u>**Vancine MH**</u>, Collen B, Ribeiro MC
-
-::: aside
-**Citations**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
 
 ### 16. Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks
 

@@ -374,7 +374,7 @@ N/A
 Desde minha formação desenvolvo atividades docentes, inicialmente como monitor. À partir do mestrado ajudo e ministro disciplinas de graduação e pós-graduação, principalmente aquelas relacionadas à Ecologia Espacial, Modelos de Distribuição de Espécies, Modelos Estatísticos em Ecologia e Geoprocessamento
 :::
 
-### Introdução à análise geoespacial com R
+### 8. Introdução à análise geoespacial com R
 
 Professor convidado  
 Programa de Pós-Graduação em Ecologia, Evolução e Biodiversidade  
@@ -389,7 +389,7 @@ Rio Claro, SP, Brasil
 - [material](https://mauriciovancine.github.io/disciplina-analise-geoespacial-r/)
 :::
 
-### Modelos Estatísticos em Ecologia
+### 7. Modelos Estatísticos em Ecologia
 
 Professor substitudo  
 Graduação em Ecologia  
@@ -403,7 +403,7 @@ Rio Claro, SP, Brasil
 - 30 h 
 :::
 
-### Introdução ao Geoprocessamento para Etnobiologia e Conservação da Biodiversidade
+### 6. Introdução ao Geoprocessamento para Etnobiologia e Conservação da Biodiversidade
 
 Professor externo convidado  
 Programa de Pós-Graduação em Etnobiologia e Conservação da Natureza  
@@ -418,7 +418,7 @@ Recife, PE, Brasil
 - [material](https://github.com/mauriciovancine/disciplina-geoprocessamento)
 :::
 
-### Modelos Estatísticos em Ecologia
+### 5. Modelos Estatísticos em Ecologia
 
 Professor assistente  
 Graduação em Ecologia  
@@ -432,7 +432,7 @@ Rio Claro, SP, Brasil
 - 12 h 
 :::
 
-### Modelagem de Nicho Ecológico: teoria e prática
+### 4. Modelagem de Nicho Ecológico: teoria e prática
 
 Professor assistente  
 Programa de Pós-Graduação em Ecologia e Biodiversidade  
@@ -446,7 +446,7 @@ Rio Claro, SP, Brasil
 - 60 h 
 :::
 
-### Modelagem de Nicho Ecológico: teoria e prática
+### 3. Modelagem de Nicho Ecológico: teoria e prática
 
 Professor assistente  
 Programa de Pós-Graduação em Ecologia e Biodiversidade  
@@ -460,7 +460,7 @@ Campinas, SP, Brasil
 - 45 h 
 :::
 
-### Modelagem de Nicho Ecológico no R
+### 2. Modelagem de Nicho Ecológico no R
 
 Professor assistente  
 Programa de Pós-Graduação em Ecologia e Biodiversidade  
@@ -474,7 +474,7 @@ Rio Claro, SP, Brasil
 - 30 h 
 :::
 
-### Ecologia Quantitativa
+### 1. Ecologia Quantitativa
 
 Monitor na Graduação em Ecologia  
 Universidade Estadual Paulista (UNESP)
@@ -487,9 +487,9 @@ Rio Claro, SP, Brasil
 - 60 h 
 :::
 
-### <u>Minicursos</u>
+### <u>Workshops</u>
 
-Total de horas: 78 h
+Total de horas: 84 h
 
 N/A
 
@@ -499,7 +499,22 @@ N/A
 Desde 2014, ministro cursos de treinamento prático, principalmente relacionados à linguagem R e aos Modelos de Distribuição de Espécies
 :::
 
-### Introdução à linguagem R
+### 9. Introdução à modelagem de distribuição de espécies usando a linguagem R
+
+Instrutor de workshop  
+[Mastozóologos Organizados em uma Conferência Online (MOCÓ)](https://moco2021.com.br/)  
+Sociedade Brasileira de Mastozoologia
+
+On-Line
+
+2021
+
+::: concise
+- 06 h
+- [material](https://github.com/mauriciovancine/workshop-r-sdm)
+:::
+
+### 8. Introdução à linguagem R
 
 Instrutor de minicurso  
 [XXX Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
@@ -514,7 +529,7 @@ Rio Claro, SP, Brasil
 - [material](https://github.com/mauriciovancine/r-minicurso-see-2019)
 :::
 
-### Introdução à linguagem R
+### 7. Introdução à linguagem R
 
 Instrutor de minicurso  
 [30ª Semana de Estudos da Biologia](https://www.facebook.com/SEBioRC/)  
@@ -529,7 +544,7 @@ Rio Claro, SP, Brasil
 - [material](https://github.com/mauriciovancine/r-minicurso-sebio-2019)
 :::
 
-### Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática
+### 6. Introdução à modelagem de distribuição de espécies usando a linguagem R: teoria e prática
 
 Instrutor de minicurso  
 [9º Congresso Brasileiro de Herpetology](https://9cbh.galoa.com.br/)
@@ -544,7 +559,7 @@ Campinas, SP, Brasil
 - [material](https://github.com/mauriciovancine/r-minicurso-sdm-9-cbh)
 :::
 
-### Trabalho de campo com anfíbios
+### 5. Trabalho de campo com anfíbios
 
 Instrutor de minicurso  
 [29ª Semana de Estudos da Biologia](https://www.facebook.com/SEBioRC/)  
@@ -558,7 +573,7 @@ Rio Claro, SP, Brasil
 - 08 h 
 :::
 
-### Herpetologia de campo
+### 4. Herpetologia de campo
 
 Instrutor de minicurso  
 [XXVII Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
@@ -572,7 +587,7 @@ Rio Claro, SP, Brasil
 - 15 h 
 :::
 
-### Introdução ao software R: gerenciamento de dados, gráficos e análise estatística
+### 3. Introdução ao software R: gerenciamento de dados, gráficos e análise estatística
 
 Instrutor de minicurso  
 [XXVII Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
@@ -586,7 +601,7 @@ Rio Claro, SP, Brasil
 - 16 h 
 :::
 
-### Introdução ao software R
+### 2. Introdução ao software R
 
 Instrutor de minicurso  
 [XXVI Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
@@ -600,7 +615,7 @@ Rio Claro, SP, Brasil
 - 08 h 
 :::
 
-### Organização de dados em folhas eletrônicas - Calc
+### 1. Organização de dados em folhas eletrônicas - Calc
 
 Instrutor de minicurso  
 [XXV Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
@@ -617,6 +632,25 @@ Rio Claro, SP, Brasil
 Publicações {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 18. Invasive wild boar’s distribution overlap with threatened native ungulate in Patagonia
+
+*Journal of Mammalogy* *in press* gyab099
+
+N/A
+
+2021
+
+DOI: [10.1093/jmammal/gyab099](https://doi.org/10.1093/jmammal/gyab099)
+<br>
+Bercê W, Bello C, Mendes CP, <u>**Vancine MH**</u>, Galetti M, Ballaru SA
+
+::: aside
+**Citations**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
+
 ### 17. Setting Priority Conservation Management Regions to Reverse Rapid Range Decline of a Key Neotropical Forest Ungulate
 
 *Global Ecology and Conservation* *in press*
@@ -628,13 +662,6 @@ N/A
 DOI: [10.1016/j.gecco.2021.e01796](https://doi.org/10.1016/j.gecco.2021.e01796)
 <br>
 Oshima JEF, Jorge MLSP, Sobral-Souza T, Börger L, Keuroghlian A, Peres CA, <u>**Vancine MH**</u>, Collen B, Ribeiro MC
-
-::: aside
-**Citations**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
 
 ### 16. Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks
 
