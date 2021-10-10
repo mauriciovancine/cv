@@ -490,9 +490,9 @@ Rio Claro, SP, Brazil
 :::
 
 
-### <u>Short courses</u>
+### <u>Workshops</u>
 
-Total hours: 78 h
+Total hours: 87 h
 
 N/A
 
@@ -500,6 +500,21 @@ N/A
 
 ::: aside
 Since 2014, I teach practical training courses, mainly related to the R language and Species Distribution Models
+:::
+
+### 10. Geoprocessing with QGIS
+
+Short course instructor  
+[32ª Biology Studies Week](https://www.facebook.com/SEBioRC/)  
+São Paulo State University (UNESP)
+
+On-Line
+
+2021
+
+::: concise
+- 03 h
+- [material](https://github.com/mauriciovancine/workshop-qgis)
 :::
 
 ### 9. Introduction to species distribution modeling using the R language

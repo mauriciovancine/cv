@@ -459,7 +459,7 @@ Rio Claro, SP, Brasil
 
 ### <u>Workshops</u>
 
-Total de horas: 84 h
+Total de horas: 87 h
 
 N/A
 
@@ -467,6 +467,21 @@ N/A
 
 ::: aside
 Desde 2014, ministro cursos de treinamento prático, principalmente relacionados à linguagem R e aos Modelos de Distribuição de Espécies
+:::
+
+### 10. Introdução ao geoprocessamento com QGIS
+
+Instrutor de minicurso  
+[32ª Semana de Estudos da Biologia](https://www.facebook.com/SEBioRC/)  
+Universidade Estadual Paulista (UNESP)
+
+On-Line
+
+2021
+
+::: concise
+- 03 h
+- [material](https://github.com/mauriciovancine/workshop-qgis)
 :::
 
 ### 9. Introdução à modelagem de distribuição de espécies usando a linguagem R
