@@ -78,7 +78,7 @@ Rio Claro, SP, Brasil
 
 2020 - Presente
 
-**Tese**: Efeito das modificações da paisagem sobre comunidades de anfíbios na Mata Atlântica  
+**Tese**: Estrutura da paisagem como preditor da diversidade taxonômica e funcional, padrões de vocalização e quitridiomicose em anfíbios na Mata Atlântica 
 **Orientador**: Prof. Milton Cezar Ribeiro
 
 ### Universidade Estadual Paulista (UNESP)
@@ -108,7 +108,7 @@ Formação Complementar {data-icon=book}
 
 ### Hierarchical Modelling of Species Communities with the R-package Hmsc
 
-Universidade de Helsinki (Zoom)
+Universidade de Helsinki (On-Line)
 
 Helsinki, Finlândia
 
@@ -267,6 +267,20 @@ Experiência Profissional {data-icon=suitcase}
 
 Piracicaba, SP, Brasil
 
+2021-2022
+
+::: concise
+- Modelagem Ecológica
+:::
+
+::: aside
+Desde 2016, tenho trabalhado como consultor ambiental autônomo na área de geoprocessamento, análise de dados ecológicos, ecologia da paisagem e modelagem de distribuição de espécies
+:::
+
+[Seleção Natural](http://selecaonatural.net/)
+
+Piracicaba, SP, Brasil
+
 2020
 
 ::: concise
@@ -274,10 +288,6 @@ Piracicaba, SP, Brasil
 - Métricas da paisagem
 - LSCorridors
 - LSMetrics
-:::
-
-::: aside
-Desde 2016, tenho trabalhado como consultor ambiental autônomo na área de geoprocessamento, análise de dados ecológicos, ecologia da paisagem e modelagem de distribuição de espécies
 :::
 
 ### Consultor ambiental
@@ -363,7 +373,7 @@ Experiência de Ensino {data-icon=chalkboard-teacher}
 ### <u>Disciplinas</u>
 
 Total de horas    
-Pós-Graduação: 240 h  
+Pós-Graduação: 300 h  
 Graduação: 102 h
 
 N/A
@@ -372,6 +382,21 @@ N/A
 
 ::: aside
 Desde minha formação desenvolvo atividades docentes, inicialmente como monitor. À partir do mestrado ajudo e ministro disciplinas de graduação e pós-graduação, principalmente aquelas relacionadas à Ecologia Espacial, Modelos de Distribuição de Espécies, Modelos Estatísticos em Ecologia e Geoprocessamento
+:::
+
+### 9. Introdução ao uso de dados geoespaciais no R
+
+Professor convidado  
+Programa de Pós-Graduação em Ecologia, Evolução e Biodiversidade  
+Universidade Estadual Paulista (UNESP)
+
+Rio Claro, SP, Brasil
+
+2021
+
+::: concise
+- 60 h
+- [material](https://github.com/mauriciovancine/course-geospatial-data-r)
 :::
 
 ### 8. Introdução à análise geoespacial com R
@@ -489,7 +514,7 @@ Rio Claro, SP, Brasil
 
 ### <u>Workshops</u>
 
-Total de horas: 87 h
+Total de horas: 95 h
 
 N/A
 
@@ -497,6 +522,21 @@ N/A
 
 ::: aside
 Desde 2014, ministro cursos de treinamento prático, principalmente relacionados à linguagem R e aos Modelos de Distribuição de Espécies
+:::
+
+### 11. Introdução à linguagem R para manipulação e visualização de dados
+
+Instrutor de minicurso  
+[XXXI Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
+Universidade Estadual Paulista (UNESP)
+
+On-Line
+
+2021
+
+::: concise
+- 08 h
+- [material](https://github.com/mauriciovancine/workshop-r-introduction)
 :::
 
 ### 10. Introdução ao geoprocessamento com QGIS
@@ -649,7 +689,7 @@ Publicações {data-icon=file}
 
 ### 18. Invasive wild boar’s distribution overlap with threatened native ungulate in Patagonia
 
-*Journal of Mammalogy* *in press* gyab099
+*Journal of Mammalogy* 102(5):1298-1308
 
 N/A
 
@@ -668,7 +708,7 @@ Bercê W, Bello C, Mendes CP, <u>**Vancine MH**</u>, Galetti M, Ballaru SA
 
 ### 17. Setting Priority Conservation Management Regions to Reverse Rapid Range Decline of a Key Neotropical Forest Ungulate
 
-*Global Ecology and Conservation* *in press*
+*Global Ecology and Conservation* 31:e01796
 
 N/A
 

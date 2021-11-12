@@ -78,7 +78,7 @@ Rio Claro, SP, Brazil
 
 2020 - Present
 
-**Thesis**: Effect of landscape changes on communities amphibians in the Atlantic Forest  
+**Thesis**: Landscape structure as a predictor of taxonomic and functional diversity, vocalization patterns and chytridiomycosis in amphibians in the Atlantic Forest
 **Advisor**: Prof. Milton Cezar Ribeiro
 
 ### São Paulo State University (UNESP)
@@ -108,7 +108,7 @@ Complementary Education {data-icon=book}
 
 ### Hierarchical Modelling of Species Communities with the R-package Hmsc
 
-University of Helsinki (Zoom)
+University of Helsinki (Online)
 
 Helsinki, Finland
 
@@ -268,6 +268,20 @@ Professional Experience {data-icon=suitcase}
 
 Piracicaba, SP, Brazil
 
+2021-2022
+
+::: concise
+- Ecological modeling
+:::
+
+::: aside
+Since 2016, I have worked as an autonomous environmental consultant in the field of geoprocessing, analysis of ecological data, landscape ecology and species distribution modeling
+:::
+
+[Seleção Natural](http://selecaonatural.net/)
+
+Piracicaba, SP, Brazil
+
 2020 - 2021
 
 ::: concise
@@ -275,10 +289,6 @@ Piracicaba, SP, Brazil
 - Landscape metrics
 - LSCorridors
 - LSMetrics
-:::
-
-::: aside
-Since 2016, I have worked as an autonomous environmental consultant in the field of geoprocessing, analysis of ecological data, landscape ecology and species distribution modeling
 :::
 
 ### Environmental consultant
@@ -364,7 +374,7 @@ Teaching Experience {data-icon=chalkboard-teacher}
 ### <u>Courses</u>
 
 Total hours:  
-Graduate: 240 h  
+Graduate: 300 h  
 Undergraduate: 102 h
 
 N/A
@@ -373,6 +383,21 @@ N/A
 
 ::: aside
 Since my formation I develop teaching activities, initially as a monitor. From the master's degree, I help and minister undergraduate and graduate courses, especially those related to Space Ecology, Species Distribution Models, Statistical Models in Ecology and Geoprocessing.
+:::
+
+### 9. Introduction to the use of geospatial data in R
+
+Invited teacher  
+Ecology, Biodiversity and Evolution Graduate Program  
+São Paulo State University (UNESP)
+
+Rio Claro, SP, Brazil
+
+2021
+
+::: concise
+- 60 h
+- [material](https://github.com/mauriciovancine/course-geospatial-data-r)
 :::
 
 ### 8. Introduction to geospatial analysis with R
@@ -492,7 +517,7 @@ Rio Claro, SP, Brazil
 
 ### <u>Workshops</u>
 
-Total hours: 87 h
+Total hours: 95 h
 
 N/A
 
@@ -500,6 +525,21 @@ N/A
 
 ::: aside
 Since 2014, I teach practical training courses, mainly related to the R language and Species Distribution Models
+:::
+
+### 11. Introduction to the R language for data manipulation and visualization
+
+Short course instructor  
+[XXXI Ecology Studies Week](http://www.rc.unesp.br/see/)  
+São Paulo State University (UNESP)
+
+On-Line
+
+2021
+
+::: concise
+- 08 h
+- [material](https://github.com/mauriciovancine/workshop-r-introduction)
 :::
 
 ### 10. Geoprocessing with QGIS
@@ -652,7 +692,7 @@ Publications {data-icon=file}
 
 ### 18. Invasive wild boar’s distribution overlap with threatened native ungulate in Patagonia
 
-*Journal of Mammalogy* *in press* gyab099
+*Journal of Mammalogy* 102(5):1298-1308
 
 N/A
 
@@ -671,7 +711,7 @@ Bercê W, Bello C, Mendes CP, <u>**Vancine MH**</u>, Galetti M, Ballaru SA
 
 ### 17. Setting Priority Conservation Management Regions to Reverse Rapid Range Decline of a Key Neotropical Forest Ungulate
 
-*Global Ecology and Conservation* *in press*
+*Global Ecology and Conservation* 31:e01796
 
 N/A
 
