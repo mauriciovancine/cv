@@ -29,7 +29,7 @@ Themes {#contact}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("globe")` `Spatial Ecology`
 - `r icons::fontawesome("globe-americas")` `Landscape Ecology`
-- `r icons::fontawesome("chart-bar")` `Ecology Modeling`
+- `r icons::fontawesome("chart-bar")` `Ecological Modeling`
 - `r icons::fontawesome("layer-group")` `Geoprocessing`
 - `r icons::fontawesome("frog")` `Amphibian Ecology`
 
@@ -207,8 +207,8 @@ Rio Claro, SP, Brazil
 
 2020 - 2024
 
-**Title**: Effect of landscape changes on communities amphibians in the Atlantic Forest  
-**Aim**: Developing
+**Title**: Landscape structure as a predictor of taxonomic and functional diversity, vocalization patterns and chytridiomycosis in amphibians in the Atlantic Forest
+**Aim**: Answer how the structure of the Atlantic Forest Biome landscapes affect: 1) the taxonomic and functional diversity of species; (2) vocalization patterns; and (3) the infection of *Batrachochytrium dendrobatides* (Bd) at different spatial scales
 
 ### Master Graduate Scholarship
 

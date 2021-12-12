@@ -29,7 +29,7 @@ Themes {#contact}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("globe")` `Spatial Ecology`
 - `r icons::fontawesome("globe-americas")` `Landscape Ecology`
-- `r icons::fontawesome("chart-bar")` `Ecology Modeling`
+- `r icons::fontawesome("chart-bar")` `Ecological Modeling`
 - `r icons::fontawesome("layer-group")` `Geoprocessing`
 - `r icons::fontawesome("frog")` `Amphibian Ecology`
 
