@@ -690,6 +690,25 @@ Rio Claro, SP, Brazil
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 19. Effects of climate change on distribution and areas that protect two neotropical marsupials associated with aquatic environments
+
+*Ecological Informatics* *in press*
+
+N/A
+
+2022
+
+DOI: [10.1016/j.ecoinf.2022.101570](https://doi.org/10.1016/j.ecoinf.2022.101570)
+<br>
+Ribeiro-Souza P, Graipel ME, Astúa D, <u>**Vancine MH**</u>, Pires JS
+
+::: aside
+**Citations**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
+
 ### 18. Invasive wild boar’s distribution overlap with threatened native ungulate in Patagonia
 
 *Journal of Mammalogy* 102(5):1298-1308
@@ -701,13 +720,6 @@ N/A
 DOI: [10.1093/jmammal/gyab099](https://doi.org/10.1093/jmammal/gyab099)
 <br>
 Bercê W, Bello C, Mendes CP, <u>**Vancine MH**</u>, Galetti M, Ballaru SA
-
-::: aside
-**Citations**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
 
 ### 17. Setting Priority Conservation Management Regions to Reverse Rapid Range Decline of a Key Neotropical Forest Ungulate
 
