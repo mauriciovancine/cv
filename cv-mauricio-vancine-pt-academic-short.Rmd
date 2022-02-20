@@ -48,8 +48,8 @@ Habilidades {#skills}
 Línguas {#skills}
 --------------------------------------------------------------------------------
 - Português (Falante nativo)
-- Inglês (A2)
-- Espanhol (A1)
+- Inglês
+- Espanhol
 
 Disclaimer
 ------------------------------------

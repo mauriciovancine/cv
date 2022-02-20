@@ -48,8 +48,8 @@ Skills {#skills}
 Languages {#skills}
 --------------------------------------------------------------------------------
 - Portuguese (Native speaker)
-- English (A2)
-- Spanish (A1)
+- English
+- Spanish
 
 Disclaimer
 ------------------------------------

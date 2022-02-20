@@ -48,8 +48,8 @@ Habilidades {#skills}
 Línguas {#skills}
 --------------------------------------------------------------------------------
 - Português (Falante nativo)
-- Inglês (A2)
-- Espanhol (A1)
+- Inglês
+- Espanho
 
 Disclaimer
 ------------------------------------
@@ -732,7 +732,7 @@ Oshima JEF, Jorge MLSP, Sobral-Souza T, Börger L, Keuroghlian A, Peres CA, <u>*
 
 ### 16. Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks
 
-*Oikos* *in press*
+*Oikos* 2022(2):oik.08240
 
 N/A
 
