@@ -676,7 +676,19 @@ Ribeiro-Souza P, Graipel ME, Astúa D, <u>**Vancine MH**</u>, Pires JS
 [Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
 :::
 
-### 18. Invasive wild boar’s distribution overlap with threatened native ungulate in Patagonia
+### 18. Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks
+
+*Oikos* 2022(2):oik.08240
+
+N/A
+
+2022
+
+DOI: [10.1111/oik.08240](https://doi.org/10.1111/oik.08240)
+<br>
+Monteiro ECS, Pizo MA, <u>**Vancine MH**</u>, Ribeiro MC
+
+### 17. Invasive wild boar’s distribution overlap with threatened native ungulate in Patagonia
 
 *Journal of Mammalogy* 102(5):1298-1308
 
@@ -688,7 +700,7 @@ DOI: [10.1093/jmammal/gyab099](https://doi.org/10.1093/jmammal/gyab099)
 <br>
 Bercê W, Bello C, Mendes CP, <u>**Vancine MH**</u>, Galetti M, Ballaru SA
 
-### 17. Setting Priority Conservation Management Regions to Reverse Rapid Range Decline of a Key Neotropical Forest Ungulate
+### 16. Setting Priority Conservation Management Regions to Reverse Rapid Range Decline of a Key Neotropical Forest Ungulate
 
 *Global Ecology and Conservation* 31:e01796
 
@@ -699,18 +711,6 @@ N/A
 DOI: [10.1016/j.gecco.2021.e01796](https://doi.org/10.1016/j.gecco.2021.e01796)
 <br>
 Oshima JEF, Jorge MLSP, Sobral-Souza T, Börger L, Keuroghlian A, Peres CA, <u>**Vancine MH**</u>, Collen B, Ribeiro MC
-
-### 16. Forest cover and connectivity have pervasive effects on the maintenance of evolutionary distinct interactions in seed dispersal networks
-
-*Oikos* 2022(2):oik.08240
-
-N/A
-
-2021
-
-DOI: [10.1111/oik.08240](https://doi.org/10.1111/oik.08240)
-<br>
-Monteiro ECS, Pizo MA, <u>**Vancine MH**</u>, Ribeiro MC
 
 ### 15. Distribution of macroalgal epiphytes and host species from the Cuban marine shelf inferred from ecological modelling
 
@@ -724,7 +724,7 @@ DOI: [10.1016/j.aquabot.2021.103395](https://doi.org/10.1016/j.aquabot.2021.1033
 <br>
 Jover A, Cabrera A, Ramos A, <u>**Vancine MH**</u>, Suárez AM, Machell J, Perez-Llórens JL
 
-### 14. Future impacts of climate change on migratory bird flyways in South America
+### 14. Future climate change will impact the size and location of breeding and wintering areas of migratory thrushes in South America
 
 *The Condor: Ornithological Applications* 123:1-16
 
