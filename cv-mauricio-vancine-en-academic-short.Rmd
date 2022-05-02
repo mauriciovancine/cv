@@ -94,7 +94,7 @@ N/A
 
 2011 - 2014
 
-Complementary Education {data-icon=book}
+Complementary Education {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
 ### Hierarchical Modelling of Species Communities with Hmsc (25 h)

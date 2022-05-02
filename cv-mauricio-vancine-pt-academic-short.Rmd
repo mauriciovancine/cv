@@ -94,7 +94,7 @@ N/A
 
 2011 - 2014
 
-Formação Complementar {data-icon=book}
+Formação Complementar {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
 ### Hierarchical Modelling of Species Communities with Hmsc (25 h)

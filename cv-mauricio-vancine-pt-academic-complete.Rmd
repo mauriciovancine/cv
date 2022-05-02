@@ -103,7 +103,7 @@ Rio Claro, SP, Brasil
 **Tese de conclusão**: Efeito da fragmentação sobre a persistência de anfíbios anuros (Amphibia: Anura) na Mata Atlântica ([Biblioteca UNESP](https://repositorio.unesp.br/handle/11449/138991))  
 **Orientador**: Prof. Milton Cezar Ribeiro
 
-Formação Complementar {data-icon=book}
+Formação Complementar {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
 ### Hierarchical Modelling of Species Communities with the R-package Hmsc
@@ -933,3 +933,20 @@ N/A
 DOI: [10.1016/j.biocon.2017.02.033](https://doi.org/10.1016/j.biocon.2017.02.033)
 <br>
 Beca G, <u>**Vancine MH**</u>, Carvalho CS, Pedrosa F, Alves RSC, Buscariol D, Peres CA, Ribeiro MC, Galetti M
+
+Books {data-icon=book}
+--------------------------------------------------------------------------------
+
+### 1. Análises Ecológicas no R
+
+*Nupeea* Recife, PE. 640 p
+
+N/A
+
+2022
+
+ISBN: 978-85-7917-564-0
+<br>
+Site: https://analises-ecologicas.netlify.app/
+<br>
+Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, <u>**Vancine MH**</u>
