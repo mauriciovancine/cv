@@ -12,10 +12,6 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-complete.pdf)
-<br>
-<i class='fas fa-download'></i> [Short version](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-short.html)
-
 Contact {#contact}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
@@ -25,7 +21,7 @@ Contact {#contact}
 - `r icons::academicons("orcid")` [0000-0001-9650-7575](https://orcid.org/0000-0001-9650-7575)
 - `r icons::academicons("lattes")` [9761288418931193](http://lattes.cnpq.br/9761288418931193)
 
-Themes {#contact}
+Themes {#themes}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("globe")` `Spatial Ecology`
 - `r icons::fontawesome("globe-americas")` `Landscape Ecology`
@@ -33,7 +29,7 @@ Themes {#contact}
 - `r icons::fontawesome("layer-group")` `Geoprocessing`
 - `r icons::fontawesome("frog")` `Amphibian Ecology`
 
-Skills {#skills}
+Programming Skills {#skills}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("r-project")` [`R`](https://www.r-project.org/)
 - `r icons::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)
@@ -45,11 +41,15 @@ Skills {#skills}
 - `r icons::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)
 - `r icons::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
-Languages {#skills}
+Languages {#languages}
 --------------------------------------------------------------------------------
 - Portuguese (Native speaker)
 - English
 - Spanish
+
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-complete.pdf)
+<br>
+<i class='fas fa-download'></i> [Short version](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-en-academic-short.html)
 
 Disclaimer {#disclaimer}
 ------------------------------------
@@ -63,9 +63,9 @@ Main
 Maurício Vancine {#title}
 --------------------------------------------------------------------------------
 
-### Spatial Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
+### Doctoral Student in Ecology, Evolution and Biodiversity
 
-I am a Spatial Ecologist and PhD student at Unesp Rio Claro, Brazil. I have experience in landscape ecology, effects of habitat loss and fragmentation, amphibian ecology, species distribution modeling, and analysis of ecological and spatial data.
+I am a Spatial Ecologist and have experience in landscape ecology, effects of habitat loss and fragmentation, amphibian ecology, species distribution modeling, and analysis of ecological and spatial data.
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
@@ -262,21 +262,11 @@ From 2015 to 2016, I was a Research Assistant of Prof. Milton Cezar Ribeiro wher
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Environmental consultant
-
-[Seleção Natural](http://selecaonatural.net/)
-
-Piracicaba, SP, Brazil
-
-2021-2022
-
-::: concise
-- Ecological modeling
-:::
-
 ::: aside
 Since 2016, I have worked as an autonomous environmental consultant in the field of geoprocessing, analysis of ecological data, landscape ecology and species distribution modeling
 :::
+
+### Environmental consultant
 
 [Seleção Natural](http://selecaonatural.net/)
 
@@ -950,6 +940,6 @@ N/A
 
 ISBN: 978-85-7917-564-0
 <br>
-Site: https://analises-ecologicas.netlify.app/
+Site: https://analises-ecologicas.com/
 <br>
 Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, <u>**Vancine MH**</u>

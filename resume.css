@@ -14,7 +14,7 @@
   --content-width: calc(var(--page-width) - var(--margin-right) - var(--margin-left));
   --root-font-size: 12pt;
   --sidebar-width: 13rem;
-  --sidebar-background-color: #f2f2f2;
+  --sidebar-background-color: #f3f3ee;
   --main-width: calc(var(--content-width) - var(--sidebar-width));
   --decorator-horizontal-margin: 0.2in;
   --sidebar-horizontal-padding: 0.1in;
@@ -58,9 +58,21 @@ body{
   hyphens: auto;
 }
 
-h1, h2, h3{
+h1{
   margin: 0;
+  color: #1a6a3f;
+}
+
+h2{
+  margin: 0;
+  font-family: "Ubuntu", non-serif;
   color: #000;
+}
+
+h3{
+  margin: 0;
+  font-family: "Ubuntu", non-serif;
+  color: #4a7862;
 }
 
 #main > h1, #aside > h1, #disclaimer > h2 {
@@ -241,7 +253,7 @@ h1, h2{
   width: var(--decorator-outer-dim);
   height: var(--decorator-outer-dim);
   border-radius: calc(var(--decorator-outer-dim) / 2);
-  background-color: #fff;
+  background-color: #5a856e;
 }
 
 .decorator::after{
@@ -253,7 +265,7 @@ h1, h2{
   width: calc(var(--decorator-outer-dim) - (var(--decorator-border-width) * 2));
   height: calc(var(--decorator-outer-dim) - (var(--decorator-border-width) * 2));
   border-radius: calc((var(--decorator-outer-dim) - (var(--decorator-border-width) * 2)) / 2);
-  background-color: #555;
+  background-color: #5a856e;
 }
 
 .blocks:last-child .decorator{ /* slightly shortens it */
@@ -347,10 +359,12 @@ h1, h2{
 .aside h2{
   font-weight: 400;
   font-size: 1.1rem;
+  color: #1a6a3f;
 }
 
 .aside .level2{
   margin-top: 0.3in;
+  color: #044200;
 }
 
 #contact ul{
@@ -365,11 +379,32 @@ h1, h2{
   text-align: right;
 }
 
+#themes ul{
+  margin-top: 0.05in;
+  padding-left: 0;
+  font-weight: 400;
+  line-height: 1.75;
+}
+
+#themes li > i{
+  width: 0.9rem; /* for text alignment */
+  text-align: right;
+}
+
 #skills{
   line-height: 1.5;
 }
 
 #skills ul{
+  margin: 0.05in 0 0.15in;
+  padding: 0;
+}
+
+#languages{
+  line-height: 1.5;
+}
+
+#languages ul{
   margin: 0.05in 0 0.15in;
   padding: 0;
 }
@@ -422,24 +457,25 @@ h1, h2{
 
  /* unvisited link */
 a:link {
-  color: blue;
-  text-decoration: underline;
+  color: #044200;
+  text-decoration:underline;
+  text-decoration-style: dotted;
 }
 
 /* visited link */
 a:visited {
-  color: blue;
+  color: #044200;
 }
 
 /* mouse over link */
 a:hover {
-  color: purple;
+  color: green;
   text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-  color: purple;
+  color: green;
 }
 
 /* Book icon isn't centered by default which is lame */
