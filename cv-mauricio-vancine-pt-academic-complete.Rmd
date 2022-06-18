@@ -12,10 +12,6 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.pdf)
-<br>
-<i class='fas fa-download'></i> [Versão curta](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.html)
-
 Contato {#contact}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
@@ -25,7 +21,7 @@ Contato {#contact}
 - `r icons::academicons("orcid")` [0000-0001-9650-7575](https://orcid.org/0000-0001-9650-7575)
 - `r icons::academicons("lattes")` [9761288418931193](http://lattes.cnpq.br/9761288418931193)
 
-Temas {#contact}
+Temas {#themes}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("globe")` `Ecologia Espacial`
 - `r icons::fontawesome("globe-americas")` `Ecologia da Paisagem`
@@ -45,11 +41,15 @@ Habilidades {#skills}
 - `r icons::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)
 - `r icons::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
-Línguas {#skills}
+Línguas {#languages}
 --------------------------------------------------------------------------------
 - Português (Falante nativo)
-- Inglês
-- Espanhol
+- Inglês (Intermediário)
+- Espanhol (Básico)
+
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.pdf)
+<br>
+<i class='fas fa-download'></i> [Versão curta](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.html)
 
 Disclaimer
 ------------------------------------
@@ -106,6 +106,19 @@ Rio Claro, SP, Brasil
 Formação Complementar {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
+### Jornada Data Science
+
+Ômega Data Science (Online)
+
+Curitiba, Paraná
+
+2022
+
+::: concise
+- 330 h 
+- [curso](https://omegadatascience.com.br/)
+:::
+
 ### Hierarchical Modelling of Species Communities with the R-package Hmsc
 
 Universidade de Helsinki (On-Line)
@@ -116,7 +129,7 @@ Helsinki, Finlândia
 
 ::: concise
 - 25 h
-- [course](https://www.helsinki.fi/en/researchgroups/statistical-ecology/hmsc)
+- [curso](https://www.helsinki.fi/en/researchgroups/statistical-ecology/hmsc)
 :::
 
 ### School on Community Ecology: from patterns to principles
@@ -129,7 +142,7 @@ São Paulo, SP, Brasil
 
 ::: concise
 - 60 h
-- [course](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles)
+- [curso](https://www.ictp-saifr.org/community-ecology-from-patterns-to-principles)
 :::
 
 ### Introdução à Modelagem Hierárquica
@@ -142,7 +155,7 @@ Porto Alegre, RS, Brasil
 
 ::: concise
 - 45 h
-- [course](http://ferrazlab.org/graduate)
+- [curso](http://ferrazlab.org/graduate)
 :::
 
 ### Geoprocessamento com GRASS GIS
@@ -167,7 +180,7 @@ São Paulo, SP, Brasil
 
 ::: concise
 - 53 h
-- [course](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/)
+- [curso](https://www.ictp-saifr.org/v-southern-summer-school-on-mathematical-biology/)
 :::
 
 ### Biologia e Conservação de Anfíbios e Répteis
@@ -267,7 +280,7 @@ Experiência Profissional {data-icon=suitcase}
 
 Piracicaba, SP, Brasil
 
-2021-2022
+2021 - 2022
 
 ::: concise
 - Modelagem Ecológica
@@ -277,11 +290,13 @@ Piracicaba, SP, Brasil
 Desde 2016, tenho trabalhado como consultor ambiental autônomo na área de geoprocessamento, análise de dados ecológicos, ecologia da paisagem e modelagem de distribuição de espécies
 :::
 
+### Consultor ambiental
+
 [Seleção Natural](http://selecaonatural.net/)
 
 Piracicaba, SP, Brasil
 
-2020
+2020 - 2021
 
 ::: concise
 - Corredores ecológicos
@@ -684,12 +699,48 @@ Rio Claro, SP, Brasil
 - 08 h 
 :::
 
+Livros {data-icon=book}
+--------------------------------------------------------------------------------
+
+### 1. Análises Ecológicas no R
+
+*Nupeea* Recife, PE. 640 p
+
+N/A
+
+2022
+
+ISBN: 978-85-7917-564-0
+<br>
+Site: https://analises-ecologicas.com/
+<br>
+Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, <u>**Vancine MH**</u>
+
 Publicações {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 21. Present and future distribution of bat hosts of sarbecoviruses: implications for conservation and public health
+
+*Proceedings of the Royal Society B* 289(1975), 20220397
+
+N/A
+
+2022
+
+DOI: [10.1098/rspb.2022.0397](https://doi.org/10.1098/rspb.2022.0397)
+<br>
+Muylaert RL, Kingston T, Luo J, **<u>Vancine MH**</u>, Galli N, Carlson CJ, John RS, Rulli MC, Hayman DT
+
+::: aside
+**Citations**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
+
 ### 20. Climate change impacts on the Copernicia alba and Copernicia prunifera (Arecaceae) distribution in South America
 
-*Brazilian Journal of Botany* in press
+*Brazilian Journal of Botany* 45, 807–818.
 
 N/A
 
@@ -698,13 +749,6 @@ N/A
 DOI: [10.1007/s40415-022-00801-8](https://doi.org/10.1007/s40415-022-00801-8)
 <br>
 Costa MF, Francisconi AF, <u>**Vancine MH**</u>, Zucchi MI 
-
-::: aside
-**Citations**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
 
 ### 19. Effects of climate change on distribution and areas that protect two neotropical marsupials associated with aquatic environments
 

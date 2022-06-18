@@ -12,10 +12,6 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)
-<br>
-<i class='fas fa-download'></i> [Versão completa](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
-
 Contato {#contact}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
@@ -25,7 +21,7 @@ Contato {#contact}
 - `r icons::academicons("orcid")` [0000-0001-9650-7575](https://orcid.org/0000-0001-9650-7575)
 - `r icons::academicons("lattes")` [9761288418931193](http://lattes.cnpq.br/9761288418931193)
 
-Temas {#contact}
+Temas {#themes}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("globe")` `Ecologia Espacial`
 - `r icons::fontawesome("globe-americas")` `Ecologia da Paisagem`
@@ -45,11 +41,15 @@ Habilidades {#skills}
 - `r icons::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)
 - `r icons::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
-Línguas {#skills}
+Línguas {#languages}
 --------------------------------------------------------------------------------
 - Português (Falante nativo)
-- Inglês
-- Espanhol
+- Inglês (Intermediário)
+- Espanhol (Básico)
+
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-short.pdf)
+<br>
+<i class='fas fa-download'></i> [Versão completa](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-academic-complete.html)
 
 Disclaimer
 ------------------------------------
@@ -96,6 +96,14 @@ N/A
 
 Formação Complementar {data-icon=chalkboard}
 --------------------------------------------------------------------------------
+
+### Jornada Data Science (330 h)
+
+Ômega Data Science (Online)
+
+N/A
+
+2022
 
 ### Hierarchical Modelling of Species Communities with Hmsc (25 h)
 

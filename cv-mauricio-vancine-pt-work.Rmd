@@ -12,8 +12,6 @@ output:
 Aside
 ================================================================================
 
-<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-work.pdf)  
-
 Contato {#contact}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("link")` [mauriciovancine.github.io](https://mauriciovancine.github.io/)
@@ -23,7 +21,7 @@ Contato {#contact}
 - `r icons::academicons("orcid")` [0000-0001-9650-7575](https://orcid.org/0000-0001-9650-7575)
 - `r icons::academicons("lattes")` [9761288418931193](http://lattes.cnpq.br/9761288418931193)
 
-Temas {#contact}
+Temas {#themes}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("globe")` `Ecologia Espacial`  
 - `r icons::fontawesome("globe-americas")` `Ecologia da Paisagem`  
@@ -31,7 +29,7 @@ Temas {#contact}
 - `r icons::fontawesome("layer-group")` `Geoprocessamento`  
 - `r icons::fontawesome("frog")` `Ecologia de anfíbios`
 
-Habilidades {#contact}
+Habilidades {#skills}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("r-project")` [`R`](https://www.r-project.org/)  
 - `r icons::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)  
@@ -43,11 +41,13 @@ Habilidades {#contact}
 - `r icons::fontawesome("seedling")` [`GRASS GIS`](https://grass.osgeo.org/)  
 - `r icons::fontawesome("linux")` [`GNU/Linux`](https://www.gnu.org/gnu/linux-and-gnu.html)
 
-Línguas {#skills}
+Línguas {#languages}
 --------------------------------------------------------------------------------
 - Português (Falante nativo)
-- Inglês
-- Espanhol
+- Inglês (Intermediário)
+- Espanhol (Básico)
+
+<i class='fas fa-file-pdf'></i> [Download PDF](https://mauriciovancine.github.io/cv/cv-mauricio-vancine-pt-work.pdf)  
 
 Disclaimer
 ------------------------------------
@@ -103,6 +103,19 @@ Rio Claro, SP, Brasil
 
 Formação Complementar {data-icon=chalkboard}
 --------------------------------------------------------------------------------
+
+### Jornada Data Science
+
+Ômega Data Science (Online)
+
+Curitiba, Paraná
+
+2022
+
+::: concise
+- 330 h 
+- [curso](https://omegadatascience.com.br/)
+:::
 
 ### Hierarchical Modelling of Species Communities with the R-package Hmsc (25 h)
 
@@ -225,7 +238,7 @@ Experiência Profissional {data-icon=suitcase}
 
 Piracicaba, SP, Brasil
 
-2021-2022
+2021 - 2022
 
 ::: concise
 - Modelagem ecológica
@@ -239,7 +252,7 @@ Desde 2016, tenho trabalhado como consultor ambiental autônomo na área de geop
 
 Piracicaba, SP, Brasil
 
-2020-2021
+2020 - 2021
 
 ::: concise
 - Corredores ecológicos
@@ -654,20 +667,37 @@ Rio Claro, SP, Brasil
 - 08 h 
 :::
 
-Publicações {data-icon=file}
+Livros {data-icon=book}
 --------------------------------------------------------------------------------
 
-### 20. Climate change impacts on the Copernicia alba and Copernicia prunifera (Arecaceae) distribution in South America
+### 1. Análises Ecológicas no R
 
-*Brazilian Journal of Botany* in press
+*Nupeea* Recife, PE. 640 p
 
 N/A
 
 2022
 
-DOI: [10.1007/s40415-022-00801-8](https://doi.org/10.1007/s40415-022-00801-8)
+ISBN: 978-85-7917-564-0
 <br>
-Costa MF, Francisconi AF, <u>**Vancine MH**</u>, Zucchi MI 
+Site: https://analises-ecologicas.com/
+<br>
+Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, <u>**Vancine MH**</u>
+
+Publicações {data-icon=file}
+--------------------------------------------------------------------------------
+
+### 21. Present and future distribution of bat hosts of sarbecoviruses: implications for conservation and public health
+
+*Proceedings of the Royal Society B* 289(1975), 20220397
+
+N/A
+
+2022
+
+DOI: [10.1098/rspb.2022.0397](https://doi.org/10.1098/rspb.2022.0397)
+<br>
+Muylaert RL, Kingston T, Luo J, **<u>Vancine MH**</u>, Galli N, Carlson CJ, John RS, Rulli MC, Hayman DT
 
 ::: aside
 **Citations**  
@@ -675,6 +705,18 @@ Costa MF, Francisconi AF, <u>**Vancine MH**</u>, Zucchi MI
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
 [Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
 :::
+
+### 20. Climate change impacts on the Copernicia alba and Copernicia prunifera (Arecaceae) distribution in South America
+
+*Brazilian Journal of Botany* 45, 807–818.
+
+N/A
+
+2022
+
+DOI: [10.1007/s40415-022-00801-8](https://doi.org/10.1007/s40415-022-00801-8)
+<br>
+Costa MF, Francisconi AF, <u>**Vancine MH**</u>, Zucchi MI  
 
 ### 19. Effects of climate change on distribution and areas that protect two neotropical marsupials associated with aquatic environments
 
@@ -904,19 +946,3 @@ DOI: [10.1016/j.biocon.2017.02.033](https://doi.org/10.1016/j.biocon.2017.02.033
 <br>
 Beca G, <u>**Vancine MH**</u>, Carvalho CS, Pedrosa F, Alves RSC, Buscariol D, Peres CA, Ribeiro MC, Galetti M
 
-Books {data-icon=book}
---------------------------------------------------------------------------------
-
-### 1. Análises Ecológicas no R
-
-*Nupeea* Recife, PE. 640 p
-
-N/A
-
-2022
-
-ISBN: 978-85-7917-564-0
-<br>
-Site: https://analises-ecologicas.netlify.app/
-<br>
-Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, <u>**Vancine MH**</u>
