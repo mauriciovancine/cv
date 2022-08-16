@@ -214,7 +214,7 @@ Bolsas e Prêmios {data-icon=award}
 
 Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) (R$ 91.002,24)  
 Universidade Estadual Paulista (UNESP)  
-Bolsa [22/01899-6](https://bv.fapesp.br/pt/bolsas/203713/estrutura-da-paisagem-como-preditor-da-diversidade-taxonomica-e-funcional-de-anfibios-na-mata-atlant/)
+Bolsa [#2022/01899-6](https://bv.fapesp.br/pt/bolsas/203713/estrutura-da-paisagem-como-preditor-da-diversidade-taxonomica-e-funcional-de-anfibios-na-mata-atlant/)
 
 Rio Claro, SP, Brasil
 
