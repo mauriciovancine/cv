@@ -212,16 +212,16 @@ Scholarship & Awards {data-icon=award}
 
 ### Doctoral Graduate Scholarship
 
-Coordination of Superior Level Staff Improvement (Capes) (BRL 118,680.00)  
+São Paulo Research Foundation (FAPESP) (BRL 91,002.24)  
 São Paulo State University (UNESP)  
-Grant [88887.513979/2020-00]()
+Grant [#2022/01899-6](https://bv.fapesp.br/en/bolsas/203713/landscape-structure-as-a-predictor-of-taxonomic-and-functional-diversity-of-amphibians-in-the-atlant/)
 
 Rio Claro, SP, Brazil
 
-2020 - 2024
+2022 - 2024
 
-**Title**: Landscape structure as a predictor of taxonomic and functional diversity, vocalization patterns and chytridiomycosis in amphibians in the Atlantic Forest
-**Aim**: Answer how the structure of the Atlantic Forest Biome landscapes affect: 1) the taxonomic and functional diversity of species; (2) vocalization patterns; and (3) the infection of *Batrachochytrium dendrobatides* (Bd) at different spatial scales
+**Title**: Landscape structure as a predictor of taxonomic and functional diversity of amphibians in the Atlantic Forest  
+**Aim**:  1) how the structure of landscapes is configured throughout the Atlantic Forest Biome, 2) how the structure of the landscape affects the taxonomic and functional diversity of species in general, and 3) analyze this same question of species-specific mode, in addition to analyzing co-occurrences
 
 ### Master Graduate Scholarship
 
@@ -722,6 +722,25 @@ Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, <u>**Vancine MH**</u>
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 22. The fate of vegetation remnants  in the southern Amazon's largest threatened hotspot: part (I) a 33-year analysis of LULCC in the Tapajos River basin, Brazil
+
+*Research, Society and Development*, 11(10), e448111032553
+
+N/A
+
+2022
+
+DOI: [10.33448/rsd-v11i10.32553 ](https://doi.org/10.33448/rsd-v11i10.32553 )
+<br>
+Borges GA, Mancilla G, Siqueira AB, **<u>Vancine MH**</u>, Ribeiro MC, Maia JCS 
+
+::: aside
+**Citations**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
+
 ### 21. Present and future distribution of bat hosts of sarbecoviruses: implications for conservation and public health
 
 *Proceedings of the Royal Society B* 289(1975), 20220397
@@ -733,13 +752,6 @@ N/A
 DOI: [10.1098/rspb.2022.0397](https://doi.org/10.1098/rspb.2022.0397)
 <br>
 Muylaert RL, Kingston T, Luo J, **<u>Vancine MH**</u>, Galli N, Carlson CJ, John RS, Rulli MC, Hayman DT
-
-::: aside
-**Citations**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
 
 ### 20. Climate change impacts on the Copernicia alba and Copernicia prunifera (Arecaceae) distribution in South America
 
