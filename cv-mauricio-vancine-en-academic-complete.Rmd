@@ -106,6 +106,19 @@ Rio Claro, SP, Brazil
 Complementary Education {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
+### Joint Species Distribution Modelling with HMSC
+
+University of Jyväskylä (Online)
+
+Jyväskylä, Finlândia
+
+2022
+
+::: concise
+- 45 h 
+- [course](https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/hmsc)
+:::
+
 ### Data Science Journey
 
 Ômega Data Science (Online)
@@ -548,7 +561,7 @@ Short course instructor
 [XXXI Ecology Studies Week](http://www.rc.unesp.br/see/)  
 São Paulo State University (UNESP)
 
-On-Line
+Online
 
 2021
 
@@ -563,7 +576,7 @@ Short course instructor
 [32ª Biology Studies Week](https://www.facebook.com/SEBioRC/)  
 São Paulo State University (UNESP)
 
-On-Line
+Online
 
 2021
 
@@ -578,7 +591,7 @@ Workshop instructor
 [Mastozóologos Organizados em uma Conferência Online (MOCÓ)](https://moco2021.com.br/)  
 Sociedade Brasileira de Mastozoologia
 
-On-Line
+Online
 
 2021
 

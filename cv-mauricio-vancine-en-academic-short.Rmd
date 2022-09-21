@@ -98,6 +98,14 @@ N/A
 Complementary Education {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
+### Joint Species Distribution Modelling with HMSC (45 h)
+
+University of Jyväskylä (Online)
+
+N/A
+
+2022
+
 ### Data Science Journey (330 h)
 
 Ômega Data Science (Online)
@@ -108,7 +116,7 @@ N/A
 
 ### Hierarchical Modelling of Species Communities with Hmsc (25 h)
 
-University of Helsinki (Zoom), Helsinki, Finland
+University of Helsinki (Online), Helsinki, Finland
 
 N/A
 

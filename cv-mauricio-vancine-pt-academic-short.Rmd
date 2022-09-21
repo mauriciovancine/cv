@@ -97,6 +97,14 @@ N/A
 Formação Complementar {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
+### Hierarchical Modelling of Species Communities with Hmsc (45 h)
+
+Universidade de Jyväskylä (Online), Helsinki, Finlândia
+
+N/A
+
+2022
+
 ### Jornada Data Science (330 h)
 
 Ômega Data Science (Online)
@@ -107,7 +115,7 @@ N/A
 
 ### Hierarchical Modelling of Species Communities with Hmsc (25 h)
 
-Universidade de Helsinki (Zoom), Helsinki, Finlândia
+Universidade de Helsinki (Online), Helsinki, Finlândia
 
 N/A
 

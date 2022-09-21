@@ -104,6 +104,19 @@ Rio Claro, SP, Brasil
 Formação Complementar {data-icon=chalkboard}
 --------------------------------------------------------------------------------
 
+### Joint Species Distribution Modelling with HMSC
+
+Universidade de Jyväskylä (Online)
+
+Jyväskylä, Finlândia
+
+2022
+
+::: concise
+- 45 h
+- [curso](https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/hmsc)
+:::
+
 ### Jornada Data Science
 
 Ômega Data Science (Online)
@@ -119,7 +132,7 @@ Curitiba, Paraná
 
 ### Hierarchical Modelling of Species Communities with the R-package Hmsc (25 h)
 
-Universidade de Helsinki (On-Line)
+Universidade de Helsinki (Online)
 
 Helsinki, Finlândia
 
@@ -513,7 +526,7 @@ Instrutor de minicurso
 [31ª Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
 Universidade Estadual Paulista (UNESP)
 
-On-Line
+Online
 
 2021
 
@@ -528,7 +541,7 @@ Instrutor de minicurso
 [32ª Semana de Estudos da Biologia](https://www.facebook.com/SEBioRC/)  
 Universidade Estadual Paulista (UNESP)
 
-On-Line
+Online
 
 2021
 
@@ -543,7 +556,7 @@ Instrutor de workshop
 [Mastozóologos Organizados em uma Conferência Online (MOCÓ)](https://moco2021.com.br/)  
 Sociedade Brasileira de Mastozoologia
 
-On-Line
+Online
 
 2021
 
