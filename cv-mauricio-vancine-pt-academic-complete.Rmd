@@ -732,6 +732,25 @@ Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, <u>**Vancine MH**</u>
 Publicações {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 24. Natural forest regeneration on anthropized landscapes could overcome climate change effects on the endangered maned sloth (Bradypus torquatus, Illiger 1811)
+
+*Journal of Mammology*, gyac084
+
+N/A
+
+2022
+
+DOI: [10.1093/jmammal/gyac084](https://doi.org/10.1093/jmammal/gyac084)
+<br>
+Santos PM, Ferraz KMPMB, Ribeiro MC, Niebuhr BB, <u>**Vancine MH**</u>, Chiarello AC, Paglia AP 
+
+::: aside
+**Citations**  
+[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
+
 ### 23. Mammals in São Paulo State: diversity, distribution, ecology, and conservation
 
 *Biota Neotropica*, 22(spe): e20221363
@@ -743,13 +762,6 @@ N/A
 DOI: [10.1590/1676-0611-BN-2022-1363](https://doi.org/10.1590/1676-0611-BN-2022-1363)
 <br>
 Galetti M, Carmignotto AP, Percequillo AR, Santos MCO, Ferraz KMPMB, Lima F, **<u>Vancine MH**</u>, Muylaert RL, Bonfim FCG, Magioli M, Abra FD, Chiarello AG, Duarte JMB, Morato R, Beisiegel BM, Olmo F, Galetti Jr. PM, Ribeiro MC
-
-::: aside
-**Citations**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
 
 ### 22. The fate of vegetation remnants  in the southern Amazon's largest threatened hotspot: part (I) a 33-year analysis of LULCC in the Tapajos River basin, Brazil
 
