@@ -33,7 +33,7 @@ Habilidades {#skills}
 --------------------------------------------------------------------------------
 - `r icons::fontawesome("r-project")` [`R`](https://www.r-project.org/)
 - `r icons::fontawesome("laptop-code")` [`tidyverse`](https://www.tidyverse.org/)
-- `r icons::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)
+- `r icons::fontawesome("markdown")` [`markdown`](https://daringfireball.net/projects/markdown/)/[`quarto`](https://quarto.org/)
 - `r icons::fontawesome("code-branch")` [`git (básico)`](https://git-scm.com/)
 - `r icons::fontawesome("python")` [`python (básico)`](https://www.python.org/)
 - `r icons::fontawesome("terminal")` [`bash (básico)`](https://www.gnu.org/software/bash/)
@@ -542,7 +542,7 @@ Rio Claro, SP, Brasil
 
 ### <u>Workshops</u>
 
-Total de horas: 95 h
+Total de horas: 104 h
 
 N/A
 
@@ -550,6 +550,21 @@ N/A
 
 ::: aside
 Desde 2014, ministro cursos de treinamento prático, principalmente relacionados à linguagem R e aos Modelos de Distribuição de Espécies
+:::
+
+### 12. Linguagem R para manipulação e visualização de dados
+
+Instrutor de minicurso  
+[XXXII Semana de Estudos da Ecologia](http://www.rc.unesp.br/see/)  
+Universidade Estadual Paulista (UNESP)
+
+Rio Claro, SP, Brasil
+
+2022
+
+::: concise
+- 09 h
+- [material](https://github.com/mauriciovancine/workshop-r-introduction)
 :::
 
 ### 11. Introdução à linguagem R para manipulação e visualização de dados
@@ -745,7 +760,7 @@ DOI: [10.1093/jmammal/gyac084](https://doi.org/10.1093/jmammal/gyac084)
 Santos PM, Ferraz KMPMB, Ribeiro MC, Niebuhr BB, <u>**Vancine MH**</u>, Chiarello AC, Paglia AP 
 
 ::: aside
-**Citations**  
+**Citações**  
 [Publons](https://publons.com/researcher/F-7305-2016/)  
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
 [Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  

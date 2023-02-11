@@ -545,7 +545,7 @@ Rio Claro, SP, Brazil
 
 ### <u>Workshops</u>
 
-Total hours: 95 h
+Total hours: 104 h
 
 N/A
 
@@ -553,6 +553,21 @@ N/A
 
 ::: aside
 Since 2014, I teach practical training courses, mainly related to the R language and Species Distribution Models
+:::
+
+### 12. Introduction to the R language for data manipulation and visualization
+
+Short course instructor  
+[XXXIII Ecology Studies Week](http://www.rc.unesp.br/see/)  
+São Paulo State University (UNESP)
+
+Rio Claro, SP, Brazil
+
+2022
+
+::: concise
+- 09 h
+- [material](https://github.com/mauriciovancine/workshop-r-introduction)
 :::
 
 ### 11. Introduction to the R language for data manipulation and visualization
