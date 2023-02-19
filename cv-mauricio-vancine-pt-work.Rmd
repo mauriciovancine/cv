@@ -61,9 +61,9 @@ Main
 Maurício Vancine {#title}
 --------------------------------------------------------------------------------
 
-### Ecólogo Espacial e Doutorando em Ecologia, Evolução e Biodiversidade
+### Ecólogo e Doutorando em Ecologia, Evolução e Biodiversidade
 
-Sou Ecólogo Espacial e Doutorando na Unesp Rio Claro, Brasil. Possuo experiência em ecologia da paisagem, efeitos da perda e fragmentação de habitat, ecologia de anfíbios, modelagem de distribuição de espécies, e análise de dados ecológicos e espaciais.
+Sou Ecólogo e Doutorando na Unesp Rio Claro, Brasil. Possuo experiência em ecologia da paisagem, efeitos da perda e fragmentação de habitat, ecologia de anfíbios, modelagem de distribuição de espécies, e análise de dados ecológicos e geoespaciais.
 
 Formação {data-icon=graduation-cap}
 --------------------------------------------------------------------------------

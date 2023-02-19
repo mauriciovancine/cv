@@ -63,9 +63,9 @@ Main
 Maurício Vancine {#title}
 --------------------------------------------------------------------------------
 
-### Doctoral Student in Ecology, Evolution and Biodiversity
+### Ecologist and Doctoral Student in Ecology, Evolution and Biodiversity
 
-I am a Spatial Ecologist and PhD student at Unesp Rio Claro, Brazil. I have experience in landscape ecology, habitat loss and fragmentation, amphibian ecology, species distribution modeling, and analysis of ecological and spatial data.
+I am an Ecologist and PhD student at Unesp Rio Claro, Brazil. I have experience in landscape ecology, habitat loss and fragmentation, amphibian ecology, species distribution modeling, and analysis of ecological and geospatial data.
 
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
