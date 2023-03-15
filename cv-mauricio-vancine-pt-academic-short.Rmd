@@ -129,14 +129,6 @@ N/A
 
 2020
 
-### Introdução à Modelagem Hierárquica (45 h)
-
-Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS
-
-N/A
-
-2019
-
 ### Geoprocessamento com GRASS GIS (24 h)
 
 Universidade Estadual Paulista (UNESP), Rio Claro, SP
@@ -168,7 +160,7 @@ N/A
 Publicações {data-icon=file}
 --------------------------------------------------------------------------------
 
-### [Publons](https://publons.com/researcher/F-7305-2016/)
+### [Web of Science](https://www.webofscience.com/wos/author/record/F-7305-2016)
 
 N/A
 

@@ -764,7 +764,7 @@ Santos PM, Ferraz KMPMB, Ribeiro MC, Niebuhr BB, <u>**Vancine MH**</u>, Chiarell
 
 ::: aside
 **Citations**  
-[Publons](https://publons.com/researcher/F-7305-2016/)  
+[Web of Science](https://www.webofscience.com/wos/author/record/F-7305-2016)  
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
 [Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
 :::
