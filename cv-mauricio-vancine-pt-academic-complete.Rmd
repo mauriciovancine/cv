@@ -747,9 +747,28 @@ Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, <u>**Vancine MH**</u>
 Publicações {data-icon=file}
 --------------------------------------------------------------------------------
 
+### 25. Dinâmica da paisagem e fragmentação de ecossistemas em três bacias hidrográficas na Amazônia Oriental entre 1985 e 2019
+
+*Revista Brasileira de Geografia Física* 16(02):936–949
+
+N/A
+
+2023
+
+DOI: [10.26848/rbgf.v16.2.p936-949](https://periodicos.ufpe.br/revistas/rbgfe/article/view/254540)
+<br>
+Dutra VAB, <u>**Vancine MH**</u>, Lima AAM, Toledo PM
+
+::: aside
+**Citations**  
+[Web of Science](https://www.webofscience.com/wos/author/record/F-7305-2016)  
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
+[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
+:::
+
 ### 24. Natural forest regeneration on anthropized landscapes could overcome climate change effects on the endangered maned sloth (Bradypus torquatus, Illiger 1811)
 
-*Journal of Mammology*, gyac084
+*Journal of Mammology* gyac084
 
 N/A
 
@@ -759,16 +778,9 @@ DOI: [10.1093/jmammal/gyac084](https://doi.org/10.1093/jmammal/gyac084)
 <br>
 Santos PM, Ferraz KMPMB, Ribeiro MC, Niebuhr BB, <u>**Vancine MH**</u>, Chiarello AC, Paglia AP 
 
-::: aside
-**Citações**  
-[Web of Science](https://www.webofscience.com/wos/author/record/F-7305-2016)  
-[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57193451888)  
-[Google Scholar](https://scholar.google.com/citations?user=i-2xZBQAAAAJ)  
-:::
-
 ### 23. Mammals in São Paulo State: diversity, distribution, ecology, and conservation
 
-*Biota Neotropica*, 22(spe): e20221363
+*Biota Neotropica* 22(spe):e20221363
 
 N/A
 
@@ -780,19 +792,19 @@ Galetti M, Carmignotto AP, Percequillo AR, Santos MCO, Ferraz KMPMB, Lima F, **<
 
 ### 22. The fate of vegetation remnants  in the southern Amazon's largest threatened hotspot: part (I) a 33-year analysis of LULCC in the Tapajos River basin, Brazil
 
-*Research, Society and Development*, 11(10), e448111032553
+*Research, Society and Development* 11(10):e448111032553
 
 N/A
 
 2022
 
-DOI: [10.33448/rsd-v11i10.32553 ](https://doi.org/10.33448/rsd-v11i10.32553 )
+DOI: [10.33448/rsd-v11i10.32553](https://doi.org/10.33448/rsd-v11i10.32553)
 <br>
-Borges GA, Mancilla G, Siqueira AB, **<u>Vancine MH**</u>, Ribeiro MC, Maia JCS 
+Borges GA, Mancilla G, Siqueira AB, <u>**Vancine MH**</u>, Ribeiro MC, Maia JCS 
 
 ### 21. Present and future distribution of bat hosts of sarbecoviruses: implications for conservation and public health
 
-*Proceedings of the Royal Society B* 289(1975), 20220397
+*Proceedings of the Royal Society B* 289(1975):20220397
 
 N/A
 
@@ -800,11 +812,11 @@ N/A
 
 DOI: [10.1098/rspb.2022.0397](https://doi.org/10.1098/rspb.2022.0397)
 <br>
-Muylaert RL, Kingston T, Luo J, **<u>Vancine MH**</u>, Galli N, Carlson CJ, John RS, Rulli MC, Hayman DT
+Muylaert RL, Kingston T, Luo J, <u>**Vancine MH**</u>, Galli N, Carlson CJ, John RS, Rulli MC, Hayman DT
 
 ### 20. Climate change impacts on the Copernicia alba and Copernicia prunifera (Arecaceae) distribution in South America
 
-*Brazilian Journal of Botany* 45, 807–818.
+*Brazilian Journal of Botany* 45:807–818
 
 N/A
 
@@ -840,7 +852,7 @@ Monteiro ECS, Pizo MA, <u>**Vancine MH**</u>, Ribeiro MC
 
 ### 17. Invasive wild boar’s distribution overlap with threatened native ungulate in Patagonia
 
-*Journal of Mammalogy* 102(5):1298-1308
+*Journal of Mammalogy* 102(5):1298–1308
 
 N/A
 
@@ -876,7 +888,7 @@ Jover A, Cabrera A, Ramos A, <u>**Vancine MH**</u>, Suárez AM, Machell J, Perez
 
 ### 14. Future climate change will impact the size and location of breeding and wintering areas of migratory thrushes in South America
 
-*The Condor: Ornithological Applications* 123:1-16
+*The Condor: Ornithological Applications* 123:1–16
 
 N/A
 
@@ -888,7 +900,7 @@ Da Silveira NS, <u>**Vancine MH**</u>, Jahn AE, Pizo MA, Sobral-Souza T
 
 ### 13. Host diversity outperforms climate as a global driver of symbiont diversity in the bird‐feather mite system
 
-*Diversity and Distributions* 27(3):416-426
+*Diversity and Distributions* 27(3):416–426
 
 N/A
 
@@ -900,7 +912,7 @@ Gusmão RAF, Hernandes FRA, <u>**Vancine MH**</u>, Naka LN, Doña J, Gonçalves-
 
 ### 12. Environmental niche and functional role similarity between invasive and native palms in the Atlantic Forest
 
-*Biological Invasions* 21:741-754
+*Biological Invasions* 21:741–754
 
 N/A
 
@@ -910,7 +922,7 @@ DOI: [10.1007/s10530-020-02400-8](https://doi.org/10.1007/s10530-020-02400-8)
 <br>
 Bello C, Cintra ALP, Barreto E, <u>**Vancine MH**</u>, Sobral-Souza T, Graham CH, Galetti M
 
-### 11. Effects of landscape modification on species richness patterns of fruit-feeding butterflies in Brasilian Atlantic Forest
+### 11. Effects of landscape modification on species richness patterns of fruit-feeding butterflies in Brazilian Atlantic Forest
 
 *Diversity and Distributions* 26(2):196-208
 
@@ -946,7 +958,7 @@ DOI: [10.1016/j.gecco.2019.e00706](https://doi.org/10.1016/j.gecco.2019.e00706)
 <br>
 Moraes AM, <u>**Vancine MH**</u>, Moraes AM, Cordeiro CLO, Pinto MP, Lima AA, Culot L, Silva TSF, Collevatti RG, Ribeiro MC, Sobral-Souza T
 
-### 8. Land-use changes and the expansion of biofuel crops threaten the giant anteater in southeastern Brasil
+### 8. Land-use changes and the expansion of biofuel crops threaten the giant anteater in southeastern Brazil
 
 *Journal of Mammalogy* 100(2):435–444
 
@@ -958,7 +970,7 @@ DOI: [10.1093/jmammal/gyz042](https://doi.org/10.1093/jmammal/gyz042)
 <br>
 Bertassoni A, Costa RT, Gouvea JA, Bianchi BC, Ribeiro JW, <u>**Vancine MH**</u>, Ribeiro MC
 
-### 7. Spatial prediction of risk areas for vector transmission of Trypanosoma cruzi in the State of Paraná, southern Brasil
+### 7. Spatial prediction of risk areas for vector transmission of Trypanosoma cruzi in the State of Paraná, southern Brazil
 
 *PLOS Neglected Tropical Diseases* 12(10):e0006907
 
@@ -1006,7 +1018,7 @@ DOI: [10.1016/j.actao.2018.01.001](https://doi.org/10.1016/j.actao.2018.01.001)
 <br>
 Sobral-Souza T, <u>**Vancine MH**</u>, Ribeiro MC, Lima-Ribeiro MS
 
-### 3. Forest cover influences occurrence of mammalian carnivores within Brasilian Atlantic Forest
+### 3. Forest cover influences occurrence of mammalian carnivores within Brazilian Atlantic Forest
 
 *Journal of Mammalogy* 98:1721–1731
 
@@ -1018,7 +1030,7 @@ DOI: [10.1093/jmammal/gyx103](https://doi.org/10.1093/jmammal/gyx103)
 <br>
 Regolin AL, Cherem JJ, Graipel ME, Bogoni JA, Ribeiro JW, <u>**Vancine MH**</u>, Tortato MA, Oliveira-Santos LG, Fantacini FM, Luiz MR, Castilho PV, Ribeiro MC, Cáceres, NC
 
-### 2. Impacts of mining activities on the potential geographic distribution of eastern Brasil mountaintop endemic species. 
+### 2. Impacts of mining activities on the potential geographic distribution of eastern Brazil mountaintop endemic species. 
 
 *Perspectives in Ecology and Conservation* 15(3):172–178
 
