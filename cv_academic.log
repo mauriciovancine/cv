@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  10 AUG 2023 10:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  24 AUG 2023 09:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume.tex
-(./resume.tex
+**cv_academic.tex
+(./cv_academic.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
@@ -212,8 +212,8 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box52
 )
-(./resume.aux)
-\openout1 = `resume.aux'.
+(./cv_academic.aux)
+\openout1 = `cv_academic.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
@@ -234,7 +234,8 @@ LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 Package hyperref Info: Link coloring OFF on input line 11.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -249,9 +250,9 @@ LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
 
-(./resume.out) (./resume.out)
+(./cv_academic.out) (./cv_academic.out)
 \@outlinefile=\write3
-\openout3 = `resume.out'.
+\openout3 = `cv_academic.out'.
 
 
 *geometry* driver: auto-detecting
@@ -294,34 +295,34 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 11--11
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 54.
+(Font)              <10.95> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 54.
+(Font)              <8> on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 54.
+(Font)              <6> on input line 49.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6]
-(./resume.aux)
-Package rerunfilecheck Info: File `resume.out' has not changed.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
+(./cv_academic.aux)
+Package rerunfilecheck Info: File `cv_academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8348 strings out of 480227
- 131623 string characters out of 5895370
- 431442 words of memory out of 5000000
- 26225 multiletter control sequences out of 15000+600000
+ 8346 strings out of 480227
+ 131692 string characters out of 5895370
+ 431467 words of memory out of 5000000
+ 26223 multiletter control sequences out of 15000+600000
  473258 words of font info for 41 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 75i,6n,77p,578b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,6n,77p,583b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (6 pages, 96275 bytes).
+Output written on cv_academic.pdf (5 pages, 94738 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 56 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 6 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

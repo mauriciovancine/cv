@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1691672697 "resume.tex" "resume.pdf" "resume" 1691672697
+["pdflatex"] 1692879172 "cv_academic.tex" "cv_academic.pdf" "cv_academic" 1692879173
   "/etc/texmf/web2c/texmf.cnf" 1686797573 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -63,12 +63,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1686797577 125915 807ff72f6023b33a59c427bfd156a3d1 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1686799353 1406446 c1a3a8234c216c37bf31ecf8026aa6ca ""
-  "resume.aux" 1691672697 686 f5f198c058c66ca883888f7edab63f30 "pdflatex"
+  "cv_academic.aux" 1692879173 686 3679e47b2b137aa430e4f1f8398129a8 "pdflatex"
+  "cv_academic.out" 1692879173 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv_academic.tex" 1692879172 17163 504e7f83cac60edcd1ed86343260b2a5 ""
   "resume.cls" 1689970052 4875 18f659e874bd092714188b11f0bae08f ""
-  "resume.out" 1691672697 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1691672697 19318 7c28b8adb93e45a7877d9b59a9fb8a5f ""
   (generated)
-  "resume.aux"
-  "resume.log"
-  "resume.out"
-  "resume.pdf"
+  "cv_academic.aux"
+  "cv_academic.log"
+  "cv_academic.out"
+  "cv_academic.pdf"
