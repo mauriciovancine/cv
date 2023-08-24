@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  24 AUG 2023 09:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  24 AUG 2023 09:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv_academic.tex
-(./cv_academic.tex
+**cv-academic.tex
+(./cv-academic.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
@@ -212,8 +212,8 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box52
 )
-(./cv_academic.aux)
-\openout1 = `cv_academic.aux'.
+(./cv-academic.aux)
+\openout1 = `cv-academic.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
@@ -250,9 +250,9 @@ LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
 
-(./cv_academic.out) (./cv_academic.out)
+(./cv-academic.out) (./cv-academic.out)
 \@outlinefile=\write3
-\openout3 = `cv_academic.out'.
+\openout3 = `cv-academic.out'.
 
 
 *geometry* driver: auto-detecting
@@ -303,8 +303,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
-(./cv_academic.aux)
-Package rerunfilecheck Info: File `cv_academic.out' has not changed.
+(./cv-academic.aux)
+Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
@@ -319,7 +319,7 @@ Here is how much of TeX's memory you used:
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_academic.pdf (5 pages, 94738 bytes).
+Output written on cv-academic.pdf (5 pages, 94738 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
