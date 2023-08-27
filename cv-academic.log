@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  27 AUG 2023 18:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  27 AUG 2023 20:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -295,34 +295,35 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 11--11
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 49.
+(Font)              <10.95> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 49.
+(Font)              <8> on input line 51.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 49.
+(Font)              <6> on input line 51.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6]
 (./cv-academic.aux)
 Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8346 strings out of 480227
- 131692 string characters out of 5895370
+ 8366 strings out of 480227
+ 131868 string characters out of 5895370
  432467 words of memory out of 5000000
- 26223 multiletter control sequences out of 15000+600000
- 473258 words of font info for 41 fonts, out of 8000000 for 9000
+ 26230 multiletter control sequences out of 15000+600000
+ 473599 words of font info for 42 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 75i,6n,77p,583b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+ 75i,5n,77p,583b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600p
+k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv-academic.pdf (5 pages, 94632 bytes).
+Output written on cv-academic.pdf (6 pages, 100494 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
+ 102 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
