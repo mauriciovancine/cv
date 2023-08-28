@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  27 AUG 2023 20:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  28 AUG 2023 00:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -295,35 +295,41 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 11--11
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 51.
+(Font)              <10.95> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 51.
+(Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 51.
+(Font)              <6> on input line 11.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6]
-(./cv-academic.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (21.19386pt too wide) in paragraph at lines 135--136
+\OT1/cmr/bx/n/10.95 anteater in south-east-ern Brazil\OT1/cmr/m/n/10.95 . \OT1/
+cmr/m/it/10.95 Jour-nal of Mam-mal-ogy \OT1/cmr/m/n/10.95 100(2):435-444. []$[]
+$[] 
+ []
+
+[3] [4] [5] [6] [7] [8] (./cv-academic.aux)
 Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8366 strings out of 480227
- 131868 string characters out of 5895370
- 432467 words of memory out of 5000000
- 26230 multiletter control sequences out of 15000+600000
+ 8394 strings out of 480227
+ 132066 string characters out of 5895370
+ 432470 words of memory out of 5000000
+ 26234 multiletter control sequences out of 15000+600000
  473599 words of font info for 42 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 75i,5n,77p,583b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,5n,77p,583b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600p
 k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv-academic.pdf (6 pages, 100494 bytes).
+Output written on cv-academic.pdf (8 pages, 114687 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
+ 170 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
