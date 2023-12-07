@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  16 NOV 2023 14:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.15)  7 DEC 2023 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,8 +314,8 @@ Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8402 strings out of 480227
- 132139 string characters out of 5895370
+ 8403 strings out of 480227
+ 132146 string characters out of 5895370
  432472 words of memory out of 5000000
  26236 multiletter control sequences out of 15000+600000
  473958 words of font info for 43 fonts, out of 8000000 for 9000
@@ -327,10 +327,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv-academic.pdf (10 pages, 133456 bytes).
+Output written on cv-academic.pdf (10 pages, 133947 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 185 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
+ 214 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
+ 48 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
