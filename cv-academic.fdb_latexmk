@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1720709422 "cv-academic.tex" "cv-academic.pdf" "cv-academic" 1720709422
+["pdflatex"] 1721386747 "cv-academic.tex" "cv-academic.pdf" "cv-academic" 1721386747
   "/etc/texmf/web2c/texmf.cnf" 1686797573 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk" 1689967972 12644 8ca249d0b43e5c4b5f048fa1e269a544 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -68,9 +68,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1720529548 4036811 4cb80868003c86b962b6b5ae1e1e2902 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1720528778 1405647 f9beea4e3d833367a2623f3f22719eae ""
-  "cv-academic.aux" 1720709422 687 ad1cd1e08288ba31743526900103a846 "pdflatex"
-  "cv-academic.out" 1720709422 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv-academic.tex" 1720709421 46778 ac2bcdba9a5ab51b94da85a78bbd2a76 ""
+  "cv-academic.aux" 1721386747 687 ad1cd1e08288ba31743526900103a846 "pdflatex"
+  "cv-academic.out" 1721386747 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv-academic.tex" 1721386746 46700 931bd6f9efb481a9d2fcdab267b19be7 ""
   "resume.cls" 1689970052 4875 18f659e874bd092714188b11f0bae08f ""
   (generated)
   "cv-academic.aux"
