@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.9)  19 JUL 2024 07:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.9)  29 JUL 2024 22:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -310,19 +310,19 @@ $[]
  []
 
 [4] [5] [6] [7] [8]
-Overfull \hbox (1.06413pt too wide) in paragraph at lines 481--484
+Overfull \hbox (1.06413pt too wide) in paragraph at lines 487--490
 \OT1/cmr/m/n/10.95 Authors: \OT1/cmr/bx/n/10.95 Maur^^S^^Pcio Hum-berto Vancine
 \OT1/cmr/m/n/10.95 , Bernardo Niebuhr, Re-nata L. Muy-laert, Mauro Galetti,
  []
 
-[9] [10] [11] (./cv-academic.aux)
+[9] [10] [11] [12] (./cv-academic.aux)
 Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8410 strings out of 480247
- 132204 string characters out of 5896152
- 432368 words of memory out of 5000000
+ 8414 strings out of 480247
+ 132232 string characters out of 5896152
+ 433368 words of memory out of 5000000
  26231 multiletter control sequences out of 15000+600000
  473958 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -333,10 +333,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv-academic.pdf (11 pages, 139100 bytes).
+Output written on cv-academic.pdf (12 pages, 140250 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 211 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
+ 248 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
