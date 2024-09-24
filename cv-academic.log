@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.7.31)  6 SEP 2024 07:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.9.21)  24 SEP 2024 00:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -264,11 +264,11 @@ LaTeX Info: Redefining \nameref on input line 11.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
-* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
+* v-part:(T,H,B)=(43.36243pt, 697.40506pt, 54.2025pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=505.89pt
-* \textheight=708.24513pt
+* \textheight=697.40506pt
 * \oddsidemargin=-18.06749pt
 * \evensidemargin=-18.06749pt
 * \topmargin=-65.90756pt
@@ -303,14 +303,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (21.19386pt too wide) in paragraph at lines 216--217
+Overfull \hbox (21.19386pt too wide) in paragraph at lines 219--220
 \OT1/cmr/bx/n/10.95 anteater in south-east-ern Brazil\OT1/cmr/m/n/10.95 . \OT1/
 cmr/m/it/10.95 Jour-nal of Mam-mal-ogy \OT1/cmr/m/n/10.95 100(2):435-444. []$[]
 $[] 
  []
 
 [4] [5] [6] [7] [8]
-Overfull \hbox (1.06413pt too wide) in paragraph at lines 487--490
+Overfull \hbox (1.06413pt too wide) in paragraph at lines 490--493
 \OT1/cmr/m/n/10.95 Authors: \OT1/cmr/bx/n/10.95 Maur^^S^^Pcio Hum-berto Vancine
 \OT1/cmr/m/n/10.95 , Bernardo Niebuhr, Re-nata L. Muy-laert, Mauro Galetti,
  []
@@ -320,12 +320,12 @@ Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8414 strings out of 480204
- 132232 string characters out of 5895010
- 433518 words of memory out of 5000000
- 26238 multiletter control sequences out of 15000+600000
+ 8412 strings out of 480186
+ 132225 string characters out of 5894355
+ 434546 words of memory out of 5000000
+ 26242 multiletter control sequences out of 15000+600000
  473958 words of font info for 43 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
+ 38 hyphenation exceptions out of 8191
  75i,5n,77p,583b,468s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600p
 k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
@@ -333,10 +333,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv-academic.pdf (12 pages, 140387 bytes).
+Output written on cv-academic.pdf (12 pages, 140654 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
+ 249 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
  58 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
