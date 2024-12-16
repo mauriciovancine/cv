@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.11.26)  4 DEC 2024 09:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.11.26)  16 DEC 2024 07:42
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -297,20 +297,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 23.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6]
-Overfull \hbox (0.44862pt too wide) in paragraph at lines 330--331
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
+Overfull \hbox (0.44862pt too wide) in paragraph at lines 293--294
 \T1/cmr/m/n/10.95 Dinâmica es-paço tem-po-ral: vari-ações na com-posição e con-
 fig-u-ração da veg-e-tação. \T1/cmr/m/it/10.95 Re-vista Brasileira
  []
 
-[7] [8] [9]
-Overfull \hbox (21.98764pt too wide) in paragraph at lines 542--545
+[6] [7] [8] [9]
+Overfull \hbox (21.98764pt too wide) in paragraph at lines 544--547
 \T1/cmr/bx/n/10.95 Vancine\T1/cmr/m/n/10.95 , Ju-liana S. San-tos, Bernardo Bra
 ndão Niebuhr, Ed-son Val-mor-bida, Maria Cristina Gaglianone,
  []
 
 [10]
-Overfull \hbox (1.0402pt too wide) in paragraph at lines 553--554
+Overfull \hbox (1.0402pt too wide) in paragraph at lines 555--556
 []\T1/cmr/m/it/10.95 Descriptive statis-tics\T1/cmr/m/n/10.95 : tab-u-lar data 
 ma-nip-u-la-tion (ad-vanced), spa-tial data ma-nip-u-la-tion (ad-vanced),
  []
@@ -320,13 +320,13 @@ Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9528 strings out of 480247
- 145659 string characters out of 5896150
+ 9529 strings out of 480247
+ 145666 string characters out of 5896150
  450043 words of memory out of 5000000
  27324 multiletter control sequences out of 15000+600000
  476831 words of font info for 44 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,77p,583b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,6n,77p,583b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbi1095.600p
 k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600p
 k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600p
@@ -334,10 +334,10 @@ k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600p
 k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600p
 k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600p
 k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv-academic.pdf (13 pages, 144801 bytes).
+Output written on cv-academic.pdf (13 pages, 144891 bytes).
 PDF statistics:
- 550 PDF objects out of 1000 (max. 8388607)
- 237 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
+ 551 PDF objects out of 1000 (max. 8388607)
+ 238 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
