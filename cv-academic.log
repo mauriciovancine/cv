@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.11.26)  22 DEC 2024 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.11.26)  3 JAN 2025 00:09
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -297,12 +297,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 32.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-
-Package hyperref Warning: Suppressing link with empty target on input line 203.
-
-
-[3] [4] [5]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
 Overfull \hbox (0.44862pt too wide) in paragraph at lines 302--303
 \T1/cmr/m/n/10.95 Dinâmica es-paço tem-po-ral: vari-ações na com-posição e con-
 fig-u-ração da veg-e-tação. \T1/cmr/m/it/10.95 Re-vista Brasileira
@@ -339,10 +334,10 @@ k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600p
 k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600p
 k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600p
 k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv-academic.pdf (13 pages, 145104 bytes).
+Output written on cv-academic.pdf (13 pages, 145128 bytes).
 PDF statistics:
- 553 PDF objects out of 1000 (max. 8388607)
- 240 compressed objects within 3 object streams
+ 554 PDF objects out of 1000 (max. 8388607)
+ 241 compressed objects within 3 object streams
  60 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
