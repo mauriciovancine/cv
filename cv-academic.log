@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.11.26)  3 JAN 2025 00:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.11.26)  10 JAN 2025 16:23
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -175,7 +175,16 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks20
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+pplx on input line 1
+12.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pplx.fd
+File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -194,7 +203,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 30.
+Package hyperref Info: Option `colorlinks' set `true' on input line 35.
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
@@ -202,25 +211,25 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 ) (./cv-academic.aux)
 \openout1 = `cv-academic.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-Package hyperref Info: Link coloring ON on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+Package hyperref Info: Link coloring ON on input line 37.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -230,9 +239,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count274
 )
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
 (./cv-academic.out) (./cv-academic.out)
 \@outlinefile=\write3
 \openout3 = `cv-academic.out'.
@@ -271,48 +280,66 @@ LaTeX Info: Redefining \nameref on input line 32.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+\big@size=\dimen153
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count275
-\scratchdimen=\dimen153
+\scratchdimen=\dimen154
 \scratchbox=\box53
 \nofMPsegments=\count276
 \nofMParguments=\count277
 \everyMPshowfont=\toks21
 \MPscratchCnt=\count278
-\MPscratchDim=\dimen154
+\MPscratchDim=\dimen155
 \MPnumerator=\count279
 \makeMPintoPDFobject=\count280
 \everyMPtoPDFconversion=\toks22
 )
-Overfull \hbox (30.0pt too wide) in paragraph at lines 32--32
+Overfull \hbox (30.0pt too wide) in paragraph at lines 37--37
 [] 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 32.
-[1
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
+37.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+37.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+37.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+37.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+37.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5]
-Overfull \hbox (0.44862pt too wide) in paragraph at lines 302--303
-\T1/cmr/m/n/10.95 Dinâmica es-paço tem-po-ral: vari-ações na com-posição e con-
-fig-u-ração da veg-e-tação. \T1/cmr/m/it/10.95 Re-vista Brasileira
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for TS1+pplx on input line 
+109.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
+File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
+) [2] [3] [4] [5] [6] [7] [8] [9] [10]
+Overfull \hbox (26.52019pt too wide) in paragraph at lines 559--562
+\T1/pplx/b/n/10.95 Vancine\T1/pplx/m/n/10.95 , Ju-liana S. San-tos, Bernardo Br
+andão Niebuhr, Ed-son Val-mor-bida, Maria Cristina Gaglianone,
  []
 
-[6] [7] [8] [9]
-Overfull \hbox (21.98764pt too wide) in paragraph at lines 553--556
-\T1/cmr/bx/n/10.95 Vancine\T1/cmr/m/n/10.95 , Ju-liana S. San-tos, Bernardo Bra
-ndão Niebuhr, Ed-son Val-mor-bida, Maria Cristina Gaglianone,
- []
 
-[10]
-Overfull \hbox (1.0402pt too wide) in paragraph at lines 564--565
-[]\T1/cmr/m/it/10.95 Descriptive statis-tics\T1/cmr/m/n/10.95 : tab-u-lar data 
-ma-nip-u-la-tion (ad-vanced), spa-tial data ma-nip-u-la-tion (ad-vanced),
+Overfull \hbox (4.05074pt too wide) in paragraph at lines 570--571
+[]\T1/pplx/m/it/10.95 Descriptive statis-tics\T1/pplx/m/n/10.95 : tab-u-lar dat
+a ma-nip-u-la-tion (ad-vanced), spa-tial data ma-nip-u-la-tion (ad-vanced),
  []
 
 [11] [12] [13] (./cv-academic.aux)
@@ -320,24 +347,23 @@ Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9529 strings out of 480247
- 145666 string characters out of 5896150
- 450139 words of memory out of 5000000
- 27324 multiletter control sequences out of 15000+600000
- 476831 words of font info for 44 fonts, out of 8000000 for 9000
+ 9758 strings out of 480247
+ 149425 string characters out of 5896150
+ 449141 words of memory out of 5000000
+ 27516 multiletter control sequences out of 15000+600000
+ 490916 words of font info for 64 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,77p,583b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbi1095.600p
-k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600p
-k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1095.600p
-k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1095.600p
-k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1095.600p
-k> </home/mude/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx2074.600p
-k></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv-academic.pdf (13 pages, 145128 bytes).
+ 75i,5n,77p,583b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
+palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
+ri8a.pfb>
+Output written on cv-academic.pdf (13 pages, 138907 bytes).
 PDF statistics:
- 554 PDF objects out of 1000 (max. 8388607)
- 241 compressed objects within 3 object streams
+ 257 PDF objects out of 1000 (max. 8388607)
+ 229 compressed objects within 3 object streams
  60 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
