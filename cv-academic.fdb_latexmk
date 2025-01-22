@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1737580853 "cv-academic.tex" "cv-academic.pdf" "cv-academic" 1737580853
+["pdflatex"] 1737581392 "cv-academic.tex" "cv-academic.pdf" "cv-academic" 1737581393
   "/etc/texmf/web2c/texmf.cnf" 1732656175 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -95,9 +95,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1732656679 4036811 4cb80868003c86b962b6b5ae1e1e2902 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1732656691 1405657 d7f3a20896a651b1e9e235bad6cdec5f ""
-  "cv-academic.aux" 1737580853 687 3185f9e72869a26afceba12c7b17d075 "pdflatex"
-  "cv-academic.out" 1737580853 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv-academic.tex" 1737580852 52809 5ecf040590d00ceb1148ab2d8ef28142 ""
+  "cv-academic.aux" 1737581393 687 3185f9e72869a26afceba12c7b17d075 "pdflatex"
+  "cv-academic.out" 1737581393 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv-academic.tex" 1737581355 52815 e27ce64513fe4f21b91926b0d2aec2d9 ""
   "resume.cls" 1731925441 5009 6c6089b9973aebe562dbbf7b1078dbdb ""
   (generated)
   "cv-academic.aux"
