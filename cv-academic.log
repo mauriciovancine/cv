@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.11.26)  10 JAN 2025 16:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.11.26)  22 JAN 2025 18:20
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -360,10 +360,10 @@ f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 ri8a.pfb>
-Output written on cv-academic.pdf (13 pages, 138907 bytes).
+Output written on cv-academic.pdf (13 pages, 138515 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 229 compressed objects within 3 object streams
+ 258 PDF objects out of 1000 (max. 8388607)
+ 230 compressed objects within 3 object streams
  60 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
