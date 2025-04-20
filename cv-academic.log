@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.26)  9 APR 2025 00:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.26)  16 APR 2025 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -379,8 +379,21 @@ LaTeX Font Info:    Trying to load font information for TS1+pplx on input line
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
-) [2] [3] [4]
-[5] [6] [7] [8] [9] [10]
+) [2] [3]
+Overfull \hbox (15.00446pt too wide) in paragraph at lines 234--235
+\T1/pplx/b/n/10.95 not res-cue bio-di-ver-sity in frag-mented land-scapes\T1/pp
+lx/m/n/10.95 . \T1/pplx/m/it/10.95 Na-ture \T1/pplx/m/n/10.95 640:702-706. [][]
+$[]$[][] 
+ []
+
+[4] [5] [6]
+Overfull \hbox (15.00446pt too wide) in paragraph at lines 311--312
+\T1/pplx/b/n/10.95 not res-cue bio-di-ver-sity in frag-mented land-scapes\T1/pp
+lx/m/n/10.95 . \T1/pplx/m/it/10.95 Na-ture \T1/pplx/m/n/10.95 640:702-706. [][]
+$[]$[][] 
+ []
+
+[7] [8] [9] [10]
 Overfull \hbox (26.52019pt too wide) in paragraph at lines 568--571
 \T1/pplx/b/n/10.95 Vancine\T1/pplx/m/n/10.95 , Ju-liana S. San-tos, Bernardo Br
 andão Niebuhr, Ed-son Val-mor-bida, Maria Cristina Gaglianone,
@@ -403,14 +416,14 @@ Here is how much of TeX's memory you used:
  27529 multiletter control sequences out of 15000+600000
  490916 words of font info for 64 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
- 75i,5n,77p,583b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,5n,77p,593b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 ri8a.pfb>
-Output written on cv-academic.pdf (14 pages, 142488 bytes).
+Output written on cv-academic.pdf (14 pages, 142531 bytes).
 PDF statistics:
  283 PDF objects out of 1000 (max. 8388607)
  254 compressed objects within 3 object streams
