@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.26)  20 AUG 2025 23:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.26)  4 SEP 2025 23:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,7 +394,7 @@ $[]$[][]
  []
 
 [7] [8] [9] [10]
-Overfull \hbox (26.52019pt too wide) in paragraph at lines 562--565
+Overfull \hbox (26.52019pt too wide) in paragraph at lines 565--568
 \T1/pplx/b/n/10.95 Vancine\T1/pplx/m/n/10.95 , Ju-liana S. San-tos, Bernardo Br
 andão Niebuhr, Ed-son Val-mor-bida, Maria Cristina Gaglianone,
  []
@@ -406,7 +406,7 @@ Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 Here is how much of TeX's memory you used:
  9756 strings out of 480186
  149313 string characters out of 5894355
- 449326 words of memory out of 5000000
+ 450326 words of memory out of 5000000
  27529 multiletter control sequences out of 15000+600000
  490916 words of font info for 64 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
@@ -417,7 +417,7 @@ f-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
 palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 ri8a.pfb>
-Output written on cv-academic.pdf (14 pages, 143639 bytes).
+Output written on cv-academic.pdf (14 pages, 143746 bytes).
 PDF statistics:
  287 PDF objects out of 1000 (max. 8388607)
  258 compressed objects within 3 object streams
