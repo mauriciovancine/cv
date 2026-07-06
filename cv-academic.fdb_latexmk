@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1783349830.17834 "cv-academic.tex" "cv-academic.pdf" "cv-academic" 1783349831.68669 0
+["lualatex"] 1783351145.53509 "cv-academic.tex" "cv-academic.pdf" "cv-academic" 1783351146.57108 0
   "/home/mude/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1779630761.81892 127309 677951b359b90ddbfa3eb54f696122f6 ""
   "/home/mude/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1779630761.77992 384898 a9d9721cf33368c61efcfb289ef5a56b ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136768653 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -148,9 +148,9 @@
   "/usr/share/texmf/tex/latex/lm/t1lmr.fd" 1616454256 1867 996fe743d88a01aca041ed22cc10e1bb ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1780456862.66171 5349216 bf3a80e68d946c7acd95ff030fd9bb63 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1780456872 12241454 bf613802295add766e832fc4573ca0a8 ""
-  "cv-academic.aux" 1783349831.56079 163 7ed6127883b2b69a438ca81fea2f3d8c "lualatex"
-  "cv-academic.out" 1783349831.18079 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "cv-academic.tex" 1783349819.75736 67834 ff7bcbe124b9caae81c4d3318d64791f ""
+  "cv-academic.aux" 1783351146.49618 163 8e09227b06dc43eed78b79ff75fb095e "lualatex"
+  "cv-academic.out" 1783351146.20418 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "cv-academic.tex" 1783351143.23114 68060 703957c7fd73814e91a3f2b074bb57f2 ""
   "resume.cls" 1775349613.69498 5009 6c6089b9973aebe562dbbf7b1078dbdb ""
   (generated)
   "cv-academic.aux"
