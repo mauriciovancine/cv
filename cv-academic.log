@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.6.2)  10 SEP 2026 22:21
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.6.2)  22 OCT 2026 23:14
  restricted system commands enabled.
 **cv-academic.tex
 (./cv-academic.tex
@@ -366,7 +366,7 @@ LaTeX Font Info:    Trying to load font information for TS1+pplx on input line
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pplx.fd
 File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 ) [2] [3]
-Overfull \hbox (15.00438pt too wide) in paragraph at lines 249--250
+Overfull \hbox (15.00438pt too wide) in paragraph at lines 251--252
 \T1/pplx/b/n/10.95 not res-cue bio-di-ver-sity in frag-mented land-scapes\T1/pp
 lx/m/n/10.95 . \T1/pplx/m/it/10.95 Na-ture \T1/pplx/m/n/10.95 640:702-706. [][]
 $[]$[][] 
@@ -381,7 +381,7 @@ Missing character: There is no ‐ (U+2010) in font pplb9e!
 Missing character: There is no ’ (U+2019) in font pplb9e!
 Missing character: There is no ’ (U+2019) in font pplb9e!
 ]
-Overfull \hbox (15.00438pt too wide) in paragraph at lines 326--327
+Overfull \hbox (15.00438pt too wide) in paragraph at lines 328--329
 \T1/pplx/b/n/10.95 not res-cue bio-di-ver-sity in frag-mented land-scapes\T1/pp
 lx/m/n/10.95 . \T1/pplx/m/it/10.95 Na-ture \T1/pplx/m/n/10.95 640:702-706. [][]
 $[]$[][] 
@@ -390,17 +390,23 @@ $[]$[][]
 [7
 Missing character: There is no … (U+2026) in font pplr9e!
 ] [8]
-Overfull \hbox (14.23422pt too wide) in paragraph at lines 382--383
+Overfull \hbox (14.23422pt too wide) in paragraph at lines 384--385
 \T1/pplx/m/n/10.95 Oliveira LR. \T1/pplx/b/n/10.95 Pre-dic-tive dis-tri-bu-tion of the Brazil-ian free-tailed bat \T1/pplx/b/it/10.95 Tadarida brasilien-sis brasilien-
  []
 
-[9] [10] [11] [12]
-Overfull \hbox (26.52011pt too wide) in paragraph at lines 626--629
+[9] [10] [11]
+Overfull \hbox (24.51622pt too wide) in paragraph at lines 553--558
+\T1/pplx/m/it/10.95 Title\T1/pplx/m/n/10.95 : Con-hec-i-mento at-ual, dis-tribui
+ção po-ten-cial e con-ser-vação de cecílias (Am-phibia: Gymnophiona)
+ []
+
+[12] [13]
+Overfull \hbox (26.52011pt too wide) in paragraph at lines 685--688
 \T1/pplx/b/n/10.95 Vancine\T1/pplx/m/n/10.95 , Ju-liana S. San-tos, Bernardo Bra
 ndão Niebuhr, Ed-son Val-mor-bida, Maria Cristina Gaglianone,
  []
 
-[13] [14] [15] [16] [17] (./cv-academic.aux)
+[14] [15] [16] [17] [18] (./cv-academic.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -410,12 +416,12 @@ Package rerunfilecheck Info: File `cv-academic.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 10180 strings out of 476553
+ 10183 strings out of 476553
  125056,1977958 words of node,token memory allocated
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:1020,3:255,4:222,5:571,6:82,7:8501,8:2,9:478,10:7,11:765
+   avail lists: 2:984,3:255,4:214,5:574,6:79,7:8501,8:2,9:466,10:7,11:765
  31819 multiletter control sequences out of 65536+600000
  84 fonts using 5163583 bytes
  84i,5n,88p,654b,521s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -424,10 +430,10 @@ exmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/upl
 ri8a.pfb>
-Output written on cv-academic.pdf (17 pages, 146365 bytes).
+Output written on cv-academic.pdf (18 pages, 149191 bytes).
 
-PDF statistics: 325 PDF objects out of 1000 (max. 8388607)
- 299 compressed objects within 3 object streams
- 76 named destinations out of 1000 (max. 131072)
+PDF statistics: 336 PDF objects out of 1000 (max. 8388607)
+ 308 compressed objects within 4 object streams
+ 79 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
